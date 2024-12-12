@@ -1,0 +1,24 @@
+Permalink: Dussehra, the Hindu festival
+
+# Dussehra, The Hindu Festival
+
+Dussehra or Dasara or Vijayadashami is one of the important festival for Hindus which is celebrated all over India.  This festival is celebrated for lord Rama's victory over Ravana according to Hindu Mythology. In another way, the celebration is for the victory of good things over the evil things. This celebration varies from region to region in India. The tenth day of Navaratri is _Dasara_. Ramleela and Durga pooja  are the main rituals observed on this auscipious day.
+
+In Maharashtra, this festival is also considered auspicious for buying new things. Another important ritual is to exchange _Aptyache Paan_ which symbolizes a gold leaf. School kids perform _Saraswati Pooja_ by drawing saraswati symbol on the slate or notebook. Goddess Saraswati is the deity of education, music and arts. So, the adults and the kids pray and worship their books, gadgets, and instruments. The marigold flowers have special importance during this day. Garlands made with these orange and yellow flowers enhance the beauty of _Dussehra_.
+
+Any festival in India is incomplete without sweets. Following are some of the recipes which you can prepare for this special occassion. 
+
+1. Shrikhand 
+
+2. Gajar Halwa
+
+3. Rasmalai
+
+4. Basundi
+
+5. Khajur Satori
+
+6. Daliya Kheer
+
+7. Shevayachi Kheer 
+

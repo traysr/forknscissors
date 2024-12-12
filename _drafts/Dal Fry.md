@@ -1,0 +1,36 @@
+Permalink: Dal Fry
+Tags: Indian
+
+# Dal Fry
+
+### Ingredients:
+* 1 cup Toor dal (Pigeon pea)
+* ¼ cup Chana dal ( bengal gram)
+* 1 onion finely chopped
+* 2 small tomatoes finely chopped
+* 1 tablespoon ginger garlic paste
+* 1 teaspoon garam masala
+* 1 teaspoon red chili powder
+* 1 teaspoon fenugreek seeds
+* ¼ teaspoon turmeric powder
+* 1 teaspoon kasuri methi (dry fenugreek leaves)
+* 1 tablespoon butter
+* 1 teaspoon cilantro chopped
+* 2 dry red chillies
+* salt to taste
+* Pich of asafoetida
+
+### Method:
+1. Wash the dals with water. Add enough fresh water and soak them for 15 minutes.
+2. Add salt, turmeric powder and fenugreek seeds to the dal and pressure cook them over medium flame. Cook upto 3-4 whistles. 
+3. Let the pressure come down and then remove dal from the pressure cooker.
+Do not mash the dal completely. 
+4. Heat oil in a pan. Add cummin seeds, pinch of asafoetida and dry red chillies
+5. Add chopped onion and stir-fry over a medium flame for 1 minute.
+6. Add ginger-garlic paste and saute for 1 minute. Add chopped tomatoes and cook until the raw aroma of tomatoes is gone. 
+7. Add salt, garam masala, red chili powder and mix it properly. Add cooked dal to the pan. 
+8. Add 1 cup of water and let it cook on a medium flame. Stir in between. 
+9. Add 1 tablespoon of butter and chopped cilantro to the dal. Dal should not be thin. 
+10. Add kasuri methi and switch off the flame. Serve hot with Rice or Pulao.
+
+

@@ -1,0 +1,30 @@
+permalink: Panki 
+Tags: Indian, breakfast
+
+### Panki
+
+# Ingredients:
+* 2 cups rice flour
+* 3 cups water
+* ½ cup yogurt beaten
+* 1 teaspoon green chilli paste
+* 1 teaspoon ginger paste
+* 1 teaspoon turmeric powder
+* 1 teaspoon chopped cilantro
+* salt to taste
+* banana leaves
+* oil for brushing
+
+# Method :
+1. Mix rice flour,yogurt,turmeric powder green chili paste, 
+cilantro,and salt in a bowl.Give a proper stir. Then add water slowly. 
+2.  The batter should not be runny or too thick. It should
+be spreadable. Keep it aside for 30 minutes.
+3. Cut banana leaves into squares. grease with little oil. 
+4. Heat tawa/griddle. Place the leaf on tawa with greased side up. pour some little batter on it. place another leaf on it facing oil side down.
+5. Cook till the half side is done. Flip to another side and cook the 
+other side. 
+6. Serve it hot with yogurt or pickle. 
+
+ 
+

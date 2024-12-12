@@ -1,0 +1,28 @@
+Permalink: Pav-Bhaji
+
+# Pav-Bhaji
+
+### Ingredients:
+* 2 cups cauliflower florets
+* 1 cup green peas
+* 1 medium potato
+* 1 cup tomato puree 
+* 1 green bell pepper
+* 1 tablespoon ginger-garlic paste
+* 1 teaspoon red chilli powder
+* 2-3 tablespoon pavbhaji masala
+* 1 onion chopped finely
+* 2 tablespoon oil
+* 1 tablespoon butter
+* Salt to taste
+
+
+### Method:
+1. Add cauliflower florets, green peas and potato in a pressure cooker. Add enough water and cook the vegetables upto one whistle. 
+2. Meanwhile, make ginger-garlic paste. Chop the green bell pepper finely. 
+3. Add oil and butter in a pan and add ginger garlic paste. Stir for a second and add 1 tablespoon red chilli powder and pav bhaji masala. Fry for a minute. 
+4. Add tomato puree to the pan and cook it until the raw smell of puree goes away.
+5. Add cooked vegetables along with water and mix well. Mash the vegetables with the spatula. Add salt and pav bhaji masala. 
+6. Add chopped bell pepper and cook everything on slow to medium flame. 
+7. Check salt and masala. Add more if needed. 
+8. Garnish with cilantro. Serve hot along with finely chopped onions and a dollop of butter. 

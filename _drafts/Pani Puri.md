@@ -1,0 +1,27 @@
+Permalink: Pani Puri
+
+# Pani Puri
+
+### Ingredients:
+* 1 serving green chutney
+* 1 serving sweet chutney
+* 1 serving ragda or 2-3 boiled potatoes
+* Puris
+* ½ cup Tamarind or 1 teaspoon tamarind concentrate
+* 1 teaspoon rock salt
+* 1 tablespoon pani puri masala
+* salt to taste
+
+
+### Method:
+1. Soak tamarind in the water for 30 minutes. Mash the tamarind with your hands and strain the mixture through the strainer. 
+2. Get the green chutney in a large bowl. Strain the chutney through a strainer.  Add tamarind, rock salt, pani puri masala, salt, and 3-4 cups of water.
+3. Stir the mixture properly. Keep this aside for 3-4 hours. 
+4. Again, stir the water and adjust the masala or salt if necessary. 
+5. Get the sweet chutney in a bowl and add water to make it thinner according to desired consistency. 
+6. Get ragda in a bowl. If you are not using ragda, get boiled potatoes and mash them. Add salt and rock salt to taste and keep aside. 
+7. Get a plate. Add 5-6 puris and poke them on top. Add teaspoon of ragda mixture in the puris. 
+Add sweet chutney and green water according to your taste. Serve immediately.
+
+
+### I used tamarind concentrate for this recipe. Since it is more sour than soaked tamarind pulp, you will need it less. 

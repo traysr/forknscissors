@@ -1,0 +1,73 @@
+Permalink: Dabeli
+
+# Dabeli
+
+_Dabeli_ aka _Kutchi dabeli_ is a very famous street food from the region of Gujarat. This popular snack is prepared with potatoes and dabeli masala. It tastes little spicy and sweet so kids enjoy this too. 
+
+Apart from the potato filling, the main attraction is how well you decorate them. You can use grapes, cherries, tutti fruity, coconut, cilantro, pomegranate and peanuts. 
+
+Another essential ingredient of any chaat or street food is chutney. There are two types of chutneys (Spicy and sweet) that we mainly use. 
+In India, _laadi pav_ is used for dabeli. But if you are outside India, you may not get the same type of bread. So, dinner rolls or burger buns are good substitutes. 
+
+Let's start making this delicious recipe :) 
+
+### Ingredients:
+
+### For the filling:
+* 2 medium potatoes boiled and mashed
+* 2 tablespoon oil
+* 1-1½ tablespoon dabeli masala
+* Salt to taste
+* ½ teaspoon cumin seeds
+* 2 tablespoon water
+* Pinch of sugar (optional)
+
+### For Masala Peanuts:
+* ½ cup regular peanuts
+* 1 teaspoon oil
+* ¼ teaspoon red chilli powder
+* Pinch of turmeric
+* Pinch of chaat masala
+* Salt to taste
+
+### For the garnishing:
+* ½ cup masala peanuts 
+* 2-3 tablespoon dry shredded coconut
+* ½ cup grapes 
+* ½ cup fresh pomegranate 
+* chopped cilantro
+
+### For serving:
+* Dinner rolls
+* ½ cup chopped onion
+* ½ cup sweet chutney
+* ½ cup green chutney
+* butter 
+
+
+### Method:
+## For the Potato Filling:
+
+1. Get a pan and add cumin seeds. When they crackle, add boiled mashed potatoes and mix it. 
+2. Add dabeli masala, salt to taste, and pinch of sugar. Mix well. 
+3. Add 2 tablespoon water and stir continuously and let it cook for 5 minutes. 
+4. Remove from the heat and spread the mixture evenly on a plate. 
+
+### For the masala peanuts:
+1. Get ½ cup peanuts in a microwave safe bowl and roast them. You can dry roast them into the pan on stove top too. Keep it aside to cool them down.
+2. Remove the peanut skin by rubbing them with your hands. Clean the peanuts and keep it aside. 
+3. Heat 1 teaspoon oil in a pan and add roasted peanuts. Add red chilli powder, turmeric, salt, and chat masala and mix well. Mix well on a low flame for a minute. Switch off the flame and keep it aside.
+
+### Garnishing:
+1. Spread the potato filling on a plate. 
+2. Add chopped grapes on top
+3. Add masala peanuts on top. 
+4. Sprinkle dry grated coconut and chopped cilantro.
+5. Add pomegranate.
+
+### To assemble:
+1. Slice the dinner rolls into half horizontally. Apply some butter to each side. Heat a tava or griddle and cook the dinner roll from both the sides. 
+2. Spread the chutneys inside the dinner roll according to your taste and add 2 tablespoon of potato mixture. Add chopped onions on the mixture. 
+3. Serve immediately. 
+
+

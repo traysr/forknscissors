@@ -1,0 +1,36 @@
+My Passion for Cakes
+The discovery of my sweet spirit 
+
+Starting from a crack on the egg to the cherry on top, a certain fascination with the wholesome dessert has exposed itself inside of me. In the beginning of my pursuit, I was enthusiastic to uncover the complex secrets that lay within a cake. Now, as an advanced baker, I still believe the same passion is roaming in my heart. Inside, I am still a student, eager to unearth the infinite states of this sweet delight. Follow along, as I remark upon my elaborate journey in baking.
+
+
+### Chocolate chip bundt cake
+This is our family favourite cake.It is a combination of chocolate cake mix,chocolate pudding,milk, and eggs. Thanks to Taste of Home for the awesome recipe.
+
+### Chocolate cupcakes with buttercream icing decorated with chocolate butterflies
+I baked these cupcakes for 'Spring theme birthday party'. I used different colours for the frosting to represent spring flowers.
+For the butterflies, I draw a template on a paper and used melting chocolate to fill in. 
+
+### This carousel cake was my first attemt at icing whole cake. I used wilton's carousal cake set to decorate. This set made my job very easy. The cake looked perfect for 'Circus theme party' 
+
+### Strawberry cupcake dress
+I baked these cupcakes to match the birthday girl's dress. For the frosting, I used fresh strawberry puree with butter cream icing. Finally, I added sparkly lace ( from Michaels) as a belt for the pink dress.
+
+### Rainbow Cake:
+This cake looks very simple from outside but when you cut it, the different layers of colours will be seen. This cake is easy to do but little time consuming. I baked all the colourful layers seperately and then stack them with buttercream frosting in between and to the sides. This cake was made for 'Tie-Die theme birthday party'
+
+### Burger Cake:
+I enjoyed making this cake for Father's day. For the burger buns, I prepared vanilla cupcakes and for the patty, I baked brownies. For the fries, I baked sugar cookies and cut them as fries. The whole meal looked awesome with the father's day special printing paper! 
+
+### Chocolate cake with roses:
+Chocolate cake is the most common cake I baked so many times. Everytime, either I use duncan hines chocolate cake mix or follow hershey's cake recipe. For the roses, I prepared butter cream frosting.
+
+### Rasmalai Cake: 
+This is my the most favourite cake. Indian fusion cake with paneer balls inside. I prepared the fresh cream frosting with ras malai milk in it. The detail recipe for this fusion cake is also available on : 
+
+### Sephora themed cake:
+I prepared this two tier cake for a 16th birthday party. The lower layer is chocolate cake with butter cream frosting. I covered this cake with white fondant. The upper layer is also chocolate cake with butter cream icing. I covered it with white fondant and then decorated it with gold sugar. 
+
+### Percy Jackson themed cake:
+I prepared this two tier chocolate cake and decorated with butter cream icing. I made a trident with yellow fondant.
+

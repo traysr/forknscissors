@@ -1,0 +1,31 @@
+Permalink: Rasmalai 
+
+# Rasmalai 
+
+### Ingredients:
+#### For Paneer:
+* 1 liter cow milk
+* ½ teaspoon citric acid 
+* ½ cup water
+* muslin or cheese cloth 
+* ½ teaspoon cornflour
+* 2-3 tablespoon squre sugar
+
+#### For sugar syrup:
+* 3 cups sugar
+* 7 cups water
+
+#### Basundi
+
+
+### Method:
+1. Start boiling milk in a pan. Let it boil and then switch off the flame. Let it cool down. Again start boling the milk with stiring in between.  
+2. Melt citric acid in a ½ cup water. When milk is about to boil, get some boiling milk in the spoon, add little citric acid water. The milk will curdle. Add this milk to the boiling milk. Repete the procedure until all the milk has curdled. 
+3. Put a wet muslin cloth on the strainer. Drain the curdled milk immediately. Pour 4-5 glass of cold water on it. Rub with your hands. Tie the edges of cloth together and squeeze it to remove excess water.Then hung the cloth for about 1 to 1½ hour. 
+4. Get the paneer in a plate and add cornflour to it. knead the paneer with your hands. The kneading procedure is very important because it will affect the softness of rasgullas. 
+5. Make equal but medium size balls from the paneer. While making the balls add 1 squre sugar each time and then roll the ball. 
+6. In a pan, add water and sugar. Let it boil. When sugar gets melt completely, swithch off the flame. Let the syrup cool down completely. Divide the syrup into two parts. Take out the ⅓ syrup in a different bowl. Start boiling remaining ⅔ syrup.
+7. When the bubbles appear on the boiling water, add 4-5 paneer balls in it. Put the lid on and wait for a while. The paneer will become double in size as it starts puffing. Let them cook on a high flame. Once they are cook and bigger in size, remove them from the boiling water and add them to the cold sugar syrup(⅓ part). Repete the procedure with the remaining paneer balls. 
+8. These are ready to serve _Rasgullas_.
+9. For making _Rasmalai_, squeeze the rasgullas gently to remove excess syrup and add them to the chilled _Basundi_ or _Rabdi_. Garnish with slivered almonds and saffron. 
+

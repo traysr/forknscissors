@@ -1,0 +1,39 @@
+Permalink: Dahi Vada 
+Tags: Indian, Appetizer
+
+# Dahi Vada: 
+![Dahi Vada](http://gallery.srujan.org/photos/i-ZLHLMGm/0/L/i-ZLHLMGm-L.jpg)
+
+### Ingredients:
+* 1 Cup urad dal
+* 3 cups yogurt
+* 1 small bowl tamarind date chutney
+* 1½ tablespoon chili and cilantro paste
+* 1-2 tablespoon sugar
+* Pinch of asofoeida 
+* Salt and pepper to taste
+* Red chilli powder to taste
+* Rosted cummin powder to taste
+* oil to fry.
+
+### Method: 
+1. Wash and Soak urad dal in a suffient water for 6-7 hours or overnight. 
+2. Next day, drain all the water from urad dal. Grind it in a grinder to a smooth paste. If you wish, you can use a little water but not too much. If you use more water, vadas will be oily. 
+3. Add salt to the grinded paste. 
+4. Heat oil in a kadai. Get at least 2 tablespoon of mixture in your hand and add slowly to the hot oil. Fry the vadas till they become golden. Heat should be medium. 
+5. Get warm water in a seperate bowl. Add asofoeida and salt. Add fried vadas to the water. Keep the vadas in the water for at least 15-20 minutes. 
+6. Press the vada gently between your palms and squeeze out all the excess water and flatten it. 
+7. Get 2 different bowls. Add 1½ cups of yogurt in each bowl. Add chili cilantro paste and ½ cup of water to one bowl and add sugar and ½ cup of water to another bowl. Mix it properly. 
+8. Arrange all the vadas in a plate or a bowl. Pour the chili cilantro yogurt evenly on the vadas. Pour the sugar yogurt on top of it evenly. 
+9. Sprinkle red chilli powder, black pepper powder, rosted cummin powder on the vadas. 
+10. Keep it in the refrigerator for a better taste. Serve with tamarind chuntney if desired. 
+
+![](http://gallery.srujan.org/photos/i-fPVwkSp/0/160x160!/i-fPVwkSp-160x160!.jpg)
+![](http://gallery.srujan.org/photos/i-2ZrpSJ4/0/160x160!/i-2ZrpSJ4-160x160!.jpg)
+![](http://gallery.srujan.org/photos/i-msPvvmK/0/160x160!/i-msPvvmK-160x160!.jpg)
+![](http://gallery.srujan.org/photos/i-vgvLCc8/0/160x160!/i-vgvLCc8-160x160!.jpg)
+![](http://gallery.srujan.org/photos/i-4St9VJR/0/160x160!/i-4St9VJR-160x160!.jpg)
+
+
+
+

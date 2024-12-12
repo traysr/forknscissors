@@ -1,0 +1,21 @@
+Permalink: Dry Chutney or Idli Podi
+
+# Dry Idli Chutney
+
+### Ingredients:
+* ½ cup urad dal
+* ½ cup chana dal
+* 10 dry red chillies
+* 2 tablespoon coriander seeds
+* 1 tablespoon sesame seeds
+* 2 springs of curry leaves
+* 1 teaspoon of mustard seeds
+* 1 tablespoon of oil
+* pinch of asafoetida
+* salt to taste
+
+### Method : 
+1. Heat a pan and add oil. Add mustard seeds to it. Let it sizzle. Add asafoetida and curry leaves. Stir it and add urad dal and chana dal. Roast them properly and transfer it to another plate. Let it cool down completely. 
+2. In the same pan, dry roast red chillies, coriander seeds and sesame seeds seperately. Transfer them to a plate to cool down. 
+3. Add all the ingredients to the grinder and make a fine powder. Add salt to the ingredients while griding. Store it in a dry container. 
+4. While serving, mix the chutney with little oil or ghee.

@@ -1,0 +1,27 @@
+Permalink: Pithale
+Tags: Indian, Main Course
+Thumbnail: http://gallery.srujan.org/photos/i-VLD7CNj/0/S/i-VLD7CNj-Th.jpg
+
+# Pithale 
+
+### Ingredients:
+* ½ cup Gram flour (_besan_)
+* 2 tablespoon oil
+* ¼ teaspoon mustard seeds 
+* Pinch of asafoetida 
+* ¼ teaspoon turmeric powder
+* 2 tablespoon chopped onion
+* ½ teaspoon Ginger-garlic paste
+* 1 or 2 Green chillies
+* 1 tablespoon chopped coriander
+* 2 cups water
+* Salt to Taste
+
+### Method:
+1. Mix gram flour and a cup of water in a bowl, to make a smooth paste.
+2. Heat oil in a heavy bottom pan. Add mustard seeds. When mustard seeds stops popping, add ginger-garlic paste and green chillies.
+3. Fry for a minute. Then add asafetida and turmeric powder.
+4. Add onion and cook it till it becomes soft.
+5. Add a cup of water in the pan. Add salt and bring it to boil.
+6. Then add gram flour paste slowly into the pan. Stir this mixture continuously to avoid lumps formation. Cover it with lid and cook it for 5-7 minutes.
+7. Garnish this pithale with coriander. Serve it hot with roti or [bhakri](/Bhakri) or plain rice. 

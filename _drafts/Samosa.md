@@ -1,0 +1,45 @@
+Permalink: Samosa
+
+# Samosa
+
+### Ingredients:
+### For the cover: 
+* 2 cups all purpose flour
+* ½ teaspoon ajwain or carrom seeds
+* Salt to taste
+* 4 tablespoon ghee/butter
+* Soda water to knead the dough
+
+### For the filling:
+* 1 tablespoon oil
+* 1 teaspoon cumin seeds
+* 2 cups boiled and finely chopped potatoes
+* ½ cup green peas
+* 1 tablespoon small pieces of ginger
+* ½ tablespoon saunf 
+* ½ teaspoon turmeric powder
+* 1 teaspoon _Aamchoor powder_ or dry mango powder
+* 1 teaspoon red chili powder
+* 1 teaspoon garam masala
+* Salt to taste
+* Oil to fry + 1 tablespoon ghee/butter
+
+### Method: 
+### For the dough:
+1. Mix all purpose flour, salt ajwain and ghee in a bowl. Mix everything properly to make sure ghee is properly incorporated.
+2. Add soda water little at a time. Make a medium to stiff consistency dough. Cover it with moist cloth and keep it aside.
+
+### For the stuffing:
+1. Add ginger pieces and _saunf_ in a blender jar and grind it. 
+2. Heat pan in a oil. Add cumin seeds. Add green peas and mix well.
+3. Add chopped potatoes. Add ginger and saunf paste. 
+4. Add turmeric powder, red chili powder, aamchoor powder, garam masala and salt. 
+5. Mix everything together and turn off the flame.
+
+### To assemble:
+1. Heat oil in a pan. Add 1 tablespoon ghee/butter into the oil.
+2. Knead the dough again with your hands. Make small to medium sized balls. (depending on the size of samosa you want) 
+3. Roll out a ball to a circular shape. Cut in the middle of the circle. Dab some water on the open side or straight side of the cut circle. Fold it in half and make a cone shape. 
+4. Add the filling in the cone. Dab some water all around the edges and seal them. It should look like a triangle. 
+5. Deep fry samosas in a kadai on a medium heat. Drain them on a paper. 
+6. Serve with green chutney or sweet chutney or ketchup. 

@@ -1,0 +1,21 @@
+# Permalink: Poori or Tikhat Mithachi Puri
+
+# Poori or Tikhat Mithachi Puri
+
+### Ingredients:
+* 1 cup whole wheat flour
+* 1 tablespoon sooji
+* 1 tablespoon hot oil + oil for frying
+* Salt to taste
+* 1 teaspoon ajwain 
+* 1 teaspoon red chili powder
+* 1 teaspoon turmeric powder
+* Water to knead the dough
+
+### Method:
+1. Add flour, sooji, red chili powder,turmeric powder,salt in a pan. Mix well. Crush ajwain on your palms and add it to the flour. Add enough water to knead the stiff consistency dough. Cover it and keep it aside for 20 minutes. 
+2. Heat oil in a pan. Devide the dough in to 15-18 round shape balls. Roll them into circle with the help of rolling pin. Do not roll out very thin.
+3.Try not to use flour while rolling. Fry these pooris in a oil over medium-high flame. 
+4. flip them in between using a spatula and fry them till they are golden brown.
+5. Drain all the pooris on a paper to remove excess oil. Serve them hot. 
+6. You can cool them and keep it in a airtight container for 2 days. 

@@ -1,0 +1,23 @@
+Permalink: Cake Rusk
+
+# Cake rusk
+
+### Ingredients: 
+* 1 cup all purpose flour + 1 tablespoon 
+* ½ cup granulated sugar
+* 1 stick butter (½ cup) 
+* 1 teaspoon baking powder
+* 3 eggs
+* 1 teaspoon vanilla
+* ⅓ cup [tutti fruity](http://www.instructables.com/id/Tutti-Frutti-Colorful-Candied-Fruit-Cubes-From-Raw/)
+* A pinch of salt
+
+### Method:
+1. Add butter and sugar in a bowl. Mix it properly with a hand mixer until the mixture is light. Add eggs and again mix it properly.
+2. Add flour, baking powder, vanilla, salt and start mixing. 
+3. Get another pan and add 1 tablespoon flour. Add tutti fruity in the flour and toss them and blend them in a batter. This will prevent them from sticking to the pan.
+4. Preheat oven to 350℉. Grease the square cake pan. Pour the batter. Bake for 30-40 minutes or until a toothpick inserted comes out clean. 
+5. Remove the cake from the oven. Allow it to cool for 10 minutes in the pan. Then cut the cake into thin slices.
+6. Reduce the temperature of the oven to 300℉. Arrange the cake slices on a baking sheet and bake the slices for 10-15 minutes. Flip to the other side and again bake for 10-15 minutes. Cake rusks should look golden brown. 
+7. Remove from the oven and allow them to cool completely. 
+8. Serve with hot tea or coffee.
