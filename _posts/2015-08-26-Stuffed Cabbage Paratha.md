@@ -1,10 +1,9 @@
-permalink: cabbageparatha
-tags: Indian, Breakfast
-Thumbnail: http://gallery.srujan.org/photos/i-TGCWg5R/0/L/i-TGCWg5R-Th.jpg
-
-# Stuffed Cabbage Paratha
-![Stuffed Cabbage Paratha](http://gallery.srujan.org/photos/i-TGCWg5R/0/L/i-TGCWg5R-L.jpg)
-
+---
+layout: post
+title: "Stuffed Cabbage Paratha"
+categories: Breakfast, Parathas, Flatbreads
+permalink: /recipes/
+---
 ### Ingredients:
 
 For stuffing:
