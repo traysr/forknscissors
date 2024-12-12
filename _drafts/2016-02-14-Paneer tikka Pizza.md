@@ -1,6 +1,9 @@
-Permalink: Paneer tikka Pizza
+---
+layout: post
+title: "Paneer tikka pizza"
+---
 
-# Paneer tikka pizza
+
 
 ### Ingredients:
 * 4 tablespoon yogurt

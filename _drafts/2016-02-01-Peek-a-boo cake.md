@@ -1,6 +1,9 @@
-Permalink: Peek-a-boo cake
+---
+layout: post
+title: "Peek-a-boo Cake "
+---
 
-# Peek-a-boo Cake 
+
 
  I have decided to bake a kid-friendly surprise cake. So, I came up with the idea of making a peek-a-boo cake! A peek-a-boo cake is a normal cake on the outside, but when you cut out a slice, you find a surprising design or fun shape.
 

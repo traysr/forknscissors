@@ -1,6 +1,9 @@
-Permalink: Spinach Soup
+---
+layout: post
+title: "Spinach Soup"
+---
 
-# Spinach Soup
+
 
 ### Ingredients:
 * 3 cups spinach leaves

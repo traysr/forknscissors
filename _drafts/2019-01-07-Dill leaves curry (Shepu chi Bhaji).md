@@ -1,6 +1,9 @@
-Permalink: Dill Subzi or Shepu Bhaji 
+---
+layout: post
+title: "Dill Subzi or Shepu Bhaji "
+---
 
-# Dill Subzi or Shepu Bhaji 
+
 
 # Serves: 2-3 persons
 
@@ -25,4 +28,4 @@ Permalink: Dill Subzi or Shepu Bhaji
 3. Heat 1 tablespoon oil in a pan. Add cumin seeds, and half of the chopped garlic. stir till the garlic turns brown (Do not burn garlic). Add asafoetida, red chilli powder, and turmeric. Add chopped onion and stir for a minute. 
 3. Add cooked dill leaves and mix well. Add salt to taste. Let the curry boil for a minute. Adjust water consistency if necessary. 
 4. Heat 1 tablespoon oil in a seperate pan. Add remaining chopped garlic, red chillies and pinch of asafoetida. Add this seasoning to the cooked dal. Turn off the flame. Put the lid on and let the curry cook for a minute. 
-5. Serve hot with jowar bhakri or rice flour bhakri.   
+5. Serve hot with jowar bhakri or rice flour bhakri.

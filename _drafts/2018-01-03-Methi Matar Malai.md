@@ -1,6 +1,9 @@
-Permalink: Methi Matar Malai
+---
+layout: post
+title: "Methi Matar Malai"
+---
 
-# Methi Matar Malai
+
 # Serves: 4 persons
 
 ### Ingredients:
@@ -26,4 +29,4 @@ Permalink: Methi Matar Malai
 3. Add cashew paste and stir. Add red chilli powder, garam masala powder, and salt.  
 4. Add chopped methi and green peas. Add water and mix well. Cook peas and methi leaves well on a medium flame.
 5. Add fresh cream and mix well. Cook on a low flame for another minute.  
-6. Turn off the flame and serve hot with rotis or rice. 
+6. Turn off the flame and serve hot with rotis or rice.

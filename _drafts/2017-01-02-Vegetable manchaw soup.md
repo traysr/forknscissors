@@ -1,6 +1,9 @@
-Permalink: Vegetable Manchow Soup
+---
+layout: post
+title: "Vegetable Manchow Soup"
+---
 
-# Vegetable Manchow Soup
+
 
 # Serves: 4 persons
 
@@ -35,4 +38,4 @@ Permalink: Vegetable Manchow Soup
 
 ### Note:
 1. You can add 1 green chili finely chopped instead of schezwan sauce.
-2. Adjust water according to the consistency of soup you want. 
+2. Adjust water according to the consistency of soup you want.

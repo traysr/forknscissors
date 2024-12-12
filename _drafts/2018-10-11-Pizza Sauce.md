@@ -1,6 +1,9 @@
-Permalink: Pizza Sauce
+---
+layout: post
+title: "Pizza Sauce"
+---
 
-# Pizza Sauce
+
 
 # Simple pizza sauce recipe for your pizza. I usually make fresh pizza sauce before making pizza at home. 
 Try this recipe at home with easily available ingredients. 
@@ -28,4 +31,4 @@ Try this recipe at home with easily available ingredients.
 6. Cook the sauce till it thickens. Turn off the heat. 
 7. Let the sauce cool down completely.You can use afterwords or store it in a airtight container in the freezer. 
 You can store upto one month. 
-8. Try this recipe with homemade pizza :) 
+8. Try this recipe with homemade pizza :)

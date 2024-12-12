@@ -1,6 +1,9 @@
-Permalink: Green Chutney
+---
+layout: post
+title: "Green Chutney"
+---
 
-# Green Chutney
+
 
 ### Ingredients:
 * 1 bunch Cilantro washed and chopped
@@ -13,4 +16,4 @@ Permalink: Green Chutney
 ### Method:
 1. Add cilantro, mint, ginger, chilis and salt in a grinder. Squeeze juice from a leamon. 
 2. Add little water and make a fine paste. Adjust salt if necessary.
-3. Chutney is ready to serve. 
+3. Chutney is ready to serve.

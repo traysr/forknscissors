@@ -1,6 +1,9 @@
-Permalink: Cauliflower-Peas-Potato subzi
+---
+layout: post
+title: "Cauliflower-Peas-Potato subzi"
+---
 
-# Cauliflower-Peas-Potato subzi
+
 
 # Serves: 2 persons
 

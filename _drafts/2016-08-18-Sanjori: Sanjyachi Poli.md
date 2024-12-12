@@ -1,6 +1,9 @@
-Permalink: Sanjori / Sanjyachi Poli
+---
+layout: post
+title: "Sanjori/Sanjyachi Poli"
+---
 
-# Sanjori/Sanjyachi Poli
+
 
 ### Ingredients:
 
@@ -29,5 +32,4 @@ Permalink: Sanjori / Sanjyachi Poli
 7. Get one flour ball and roll out in a small disk using roiiling pin. Get the sooji ball and place it in the center of rolled flour ball. Gather the edges and seal them together. 
 8. Flatten this ball with your hands and dip into the flour. Roll out in a circle using the rolling pin. The circle should not be too thin. 
 9. Heat the tava/griddle. Place the rolled poli/roti and brush the sides and the center with some ghee/ butter. Cook from both the sides by flipping the other side. 
-10. Serve hot or cold. 
-
+10. Serve hot or cold.

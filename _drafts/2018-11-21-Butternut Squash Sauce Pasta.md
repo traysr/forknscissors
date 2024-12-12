@@ -1,6 +1,9 @@
-Permalink: Butternut Squash Sauce Pasta
+---
+layout: post
+title: "Butternut Squash Sauce Pasta"
+---
 
-# Butternut Squash Sauce Pasta
+
 
 # Serves: 2 persons
 

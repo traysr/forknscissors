@@ -1,11 +1,13 @@
-Permalink: Okrasubzi
-Tags: Indian, Main Course
+---
+layout: post
+title: "Okra Subzi with Gram Flour"
+tags: [Indian, Main Course]
+---
+
 Thumbnail: http://gallery.srujan.org/photos/i-ZVw7Dp7/0/L/i-ZVw7Dp7-Th.jpg
 
-# Okra Subzi with Gram Flour
 _a.k.a. Besan Wali Bhindi_
 
-![Okra Subzi](http://gallery.srujan.org/photos/i-ZVw7Dp7/0/L/i-ZVw7Dp7-L.jpg)
 
 ### Ingredients:
 * 3 cups cut okra
@@ -29,4 +31,4 @@ _a.k.a. Besan Wali Bhindi_
 6. Saute for a minute.
 7. Add cut okra to the pan and mix it properly. 
 8. Add gram flour to the pan and let it cook till okra is done.
-9. Garnish with cilantro. 
+9. Garnish with cilantro.

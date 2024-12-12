@@ -1,7 +1,10 @@
-Permalink: Rose Kulfi
-Tags: Indian, Dessert
+---
+layout: post
+title: "Instant Rose Kulfi"
+tags: [Indian, Dessert]
+---
 
-# Instant Rose Kulfi
+
 
 ### Ingredients: 
 * 1 can of Evaporated milk
@@ -18,4 +21,4 @@ Tags: Indian, Dessert
 3. Add all the nuts mixture. mix well with the spoon. 
 4. Pour the mixture in a kulfi mould or in  small cups. Cover the cups or mould.
 5. Set the kulfi in the freezer for at least 6-7 hours or overnight. 
-6. while serving, garnish with crushed pistachios. 
+6. while serving, garnish with crushed pistachios.

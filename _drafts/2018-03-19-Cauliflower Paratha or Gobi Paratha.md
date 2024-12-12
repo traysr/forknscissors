@@ -1,6 +1,9 @@
-Permalink: Cauliflower Paratha or Gobi Paratha
+---
+layout: post
+title: "Cauliflower Paratha or Gobi Paratha"
+---
 
-# Cauliflower Paratha or Gobi Paratha
+
 
 # Serves: makes 8 parathas 
 
@@ -32,4 +35,4 @@ Permalink: Cauliflower Paratha or Gobi Paratha
 4. Heat tava/griddle. Take 2 small balls from the dough. Roll them into a small disk. 
 Add 1½-2 tablespoon of cauliflower mixture on one dough circle. Place another dough circle on top of the mixture. Press the edges with your fingertips and seal them properly. Sprinkle some flour on the stuffed paratha and start rolling again. 
 5. Roll into a bigger circle or the desired size circle. Be gentle while rolling as the stuffing may come out. Place the rolled paratha and brush the sides and the center with some oil or butter. Cook from both the sides by flipping the other side. 
-8. Serve hot with ketchup or yogurt. 
+8. Serve hot with ketchup or yogurt.

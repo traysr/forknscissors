@@ -1,8 +1,10 @@
-Permalink: Basic Eggless Vanilla Cake
-Tags: Dessert
+---
+layout: post
+title: "Eggless Vanilla Cake"
+tags: [Dessert]
+---
 
-# Eggless Vanilla Cake
-![Vanilla Cake](http://gallery.srujan.org/photos/i-K4wwnrh/0/L/i-K4wwnrh-L.jpg)
+
 
 ### Ingredients:
 * 2 cups All purpose flour
@@ -22,4 +24,4 @@ Tags: Dessert
 4. Add water to make the batter smooth. Add vanilla and the food color. The batter is ready.  
 5. Preheat oven to 350°F. Spoon the batter into muffin cups about ¾ full. 
 6. Bake for 25-30 minutes. 
-7. Remove cupcakes from the pan and cool on a rack. 
+7. Remove cupcakes from the pan and cool on a rack.

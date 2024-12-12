@@ -1,6 +1,9 @@
-Permalink: Ukadiche Modak 
+---
+layout: post
+title: "Ukadiche Modak"
+---
 
-# Ukadiche Modak
+
 
  Modak is a popular Maharashtrian dessert. It can be steamed or fried. Traditionally, modaks are offered to lord Ganesha since it is believed to be his favourite food. 
 The steamed modaks are made out of rice flour with coconut-jaggery filling inside. The fried modaks are made with either all purpose flour or wheat flour with coconut filling inside. 
@@ -42,11 +45,3 @@ For the filling:
 12 Grease the steamer lightly with ghee. Slightly dip the modaks in cold water and keep them in a steamer pan. This will prevent them from cracking.
 13. Cover the pan with a lid and steam for 10 to 12 minutes.
 14. Drizzle some ghee on the modak and serve hot.
-
-
-
-
-
-
-
-

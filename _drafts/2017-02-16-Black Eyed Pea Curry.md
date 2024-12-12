@@ -1,6 +1,9 @@
-Permalink: Black Eyed Pea Curry
+---
+layout: post
+title: "Black Eyed Pea Curry"
+---
 
-# Black Eyed Pea Curry
+
 
 # Serves: 2 persons
 
@@ -27,4 +30,4 @@ Permalink: Black Eyed Pea Curry
 3. After 5 minutes, add red chili powder, garam masala and chopped tomato. Mix and cook everything till the mixture gets cook completely. 
 4. Add cooked black eyed peas and mix everything. Add ½ cup of water. Add salt and put the lid on. Let it cook for about 10 minutes on a medium flame. 
 5. Add jaggery and cook for another 5 minutes. Check the water consistency. If you need the curry to be thin, add little water. 
-6. Swith off the flame. Garnish with chopped cilantro. Serve hot with roti or rice. 
+6. Swith off the flame. Garnish with chopped cilantro. Serve hot with roti or rice.

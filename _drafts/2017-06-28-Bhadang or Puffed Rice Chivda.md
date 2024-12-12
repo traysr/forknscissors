@@ -1,6 +1,9 @@
-Permalink: Bhadang or Puffed Rice Chivda
+---
+layout: post
+title: "Bhadang or Puffed Rice Chivda"
+---
 
-# Bhadang or Puffed Rice Chivda
+
 
 ### Ingredients:
 * 5 cups Murmura or Puffed Rice
@@ -27,4 +30,4 @@ Permalink: Bhadang or Puffed Rice Chivda
 ### Tip:
 1. If you do not have _kanda lasun masala_, just add regular red chilli powder.
 2. You can always adjust the measurement of red chilli powder and _kanda lasun masala_ according to your spice level. 
-3. You can add _Metkut_ instead of _kanda lasun masala_. It tastes perfect! 
+3. You can add _Metkut_ instead of _kanda lasun masala_. It tastes perfect!

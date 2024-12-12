@@ -1,6 +1,9 @@
-Permalink: Mysore dosa
+---
+layout: post
+title: "Mysore dosa"
+---
 
-# Mysore dosa
+
 
 ### Ingredients:
 ### For the red chutney:
@@ -17,4 +20,4 @@ Permalink: Mysore dosa
 1. Soak dry red chilies in bowl of water for 20-25 minutes. 
 2. Mix all the ingredients for the red chutney in a blender. Add little water to make a smooth paste. 
 3. Heat tava/griddle. Get a laddle full of batter and pour onto tava. Spread the batter into circular motion with the help of a laddle. drizzle some oil along the side and top of the dosa. Let it cook for few minutes and then 1-2 teaspoon red chutney all over dosa. 
-4. Fold it and serve it hot with Coconut Chutney. 
+4. Fold it and serve it hot with Coconut Chutney.

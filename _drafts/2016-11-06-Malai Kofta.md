@@ -1,6 +1,9 @@
-Permalink: Malai Kofta 
+---
+layout: post
+title: "Malai Kofta"
+---
 
-# Malai Kofta
+
 
 # Serving: 2-3 persons
 
@@ -47,6 +50,3 @@ The raw smell of the paste should be gone. This process may take 20 to 30 minute
 
 ### To serve:
 1. Arrange koftas in a serving bowl. Pour gravy all over the koftas. Garnish with grated paneer or cream and some tutti fruity. Serve hot with paratha.
-
-
-

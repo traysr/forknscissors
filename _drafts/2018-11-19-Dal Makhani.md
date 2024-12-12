@@ -1,6 +1,9 @@
-Permalink: Dal Makhani
+---
+layout: post
+title: "Dal Makhani"
+---
 
-# Dal Makhani
+
 # Serves: 4 persons
 
 ### Ingredients:
@@ -29,4 +32,4 @@ Permalink: Dal Makhani
  3. Add cooked lentils along with the water. Add garam masala, red chilli powder, and salt. Mix well on a medium-low heat. 
  4. If the dal is too thick then add water to make a proper consistency. Do not make too thin. 
  5. Add 2 tablespoon fresh cream and kasuri methi. Mix and simmer for 1 minute. 
- 6. Serve hot with plain rice, naan or pulao. 
+ 6. Serve hot with plain rice, naan or pulao.

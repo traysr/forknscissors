@@ -1,8 +1,11 @@
-Permalink: Golpapdi or Sukhadi
+---
+layout: post
+title: "Golpapdi or Sukhadi"
+---
+
 
 ### Gol papdi or Sukhadi is a Gujrati traditional sweet prepared specially in winter. There are different versions to make this sweet but I made the simple version of it. It is a very healthy sweet for kids and new moms. The perfect blend of wheat flour and jaggery with the flavor of cardamom makes a unique healthy treat.
 
-# Golpapdi or Sukhadi
 
 ### Ingredients:
 * 1 cup whole wheat flour
@@ -21,4 +24,4 @@ Permalink: Golpapdi or Sukhadi
 
 ### Note:
 * You can add a teaspoon of dry ginger powder into the mixture. 
-* You can make Laddus instead of Vadi. 
+* You can make Laddus instead of Vadi.

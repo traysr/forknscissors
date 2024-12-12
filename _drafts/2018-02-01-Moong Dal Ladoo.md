@@ -1,6 +1,9 @@
-Permalink: Moong Dal Ladoo
+---
+layout: post
+title: "Moong Dal Ladoo"
+---
 
-# Moong Dal Ladoo
+
 
 # Makes 8 ladoos
 
@@ -13,4 +16,4 @@ Permalink: Moong Dal Ladoo
 ### Method:
 1. Heat a pan/kadai and add moong dal. Dry roast on a low flame till you get the nice aroma or the raw smell goes away. Make sure the heat is on low to avoid burning. 
 2. Transfer the roasted moong dal on a plate to cool down. Add the cooled dal into a grinder and make a fine powder. 
-3. 
+3.

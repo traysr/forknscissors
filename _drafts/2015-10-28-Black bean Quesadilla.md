@@ -1,6 +1,9 @@
-Permalink: Black bean Quesadilla
+---
+layout: post
+title: "Black Bean Quesadilla"
+---
 
-# Black Bean Quesadilla
+
 
 ### Ingredients:
 * 1 cup canned black beans, drained and rinsed
@@ -18,4 +21,4 @@ Permalink: Black bean Quesadilla
 3. Heat large non-stick tava/pan. Place one tortila on it. Add vegetables and bean mixture. Sprinkle some chaat masala. Top it with shredded cheese. 
 4. Place another tortilla on it. Press the tortilla with a spatula. Cook from both the sides turning once. Be careful while flipping, since mixture may come out. 
 5. Place the quesadilla on a plate. Cut into 4 triangles using a pizza cutter. 
-6. Serve hot. 
+6. Serve hot.

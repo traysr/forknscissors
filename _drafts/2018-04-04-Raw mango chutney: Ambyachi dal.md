@@ -1,6 +1,9 @@
-Permalink: Raw Mango Chutney or Kairichi Dal
+---
+layout: post
+title: "Raw Mango Chutney or Kairichi Dal"
+---
 
-# Raw Mango Chutney or Kairichi Dal
+
 
 Kairi is a raw mango. This chutney is prepared with chana dal and chillies. This is a very popular Maharashtrian delicacy prepared during the Chaitra Gauri Haldi kumkum. 
 Let's have a look at the recipe. 

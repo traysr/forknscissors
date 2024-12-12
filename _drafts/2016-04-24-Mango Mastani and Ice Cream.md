@@ -1,4 +1,7 @@
-# Mango Mastani With Mango Ice Cream
+---
+layout: post
+title: "Mango Mastani With Mango Ice Cream"
+---
 
 ### Ingredients:
 #### Mango Mastani

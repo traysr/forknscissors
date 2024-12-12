@@ -1,6 +1,9 @@
-Permalink: Date and Walnut Cake
+---
+layout: post
+title: "Date and Walnut Cake"
+---
 
-# Date and Walnut Cake
+
 
 ### Ingredients:
 * 1 cup all purpose flour + 1 teaspoon all purpose flour
@@ -26,5 +29,4 @@ Permalink: Date and Walnut Cake
 9. Remove from the oven. Allow it to cool for 10 minutes in the pan. Transfer it to wire rack to cool completely. 
 
 ### Notes:
-1. The baking time is different for everybody depending upon the oven and baking pan size. 
-
+1. The baking time is different for everybody depending upon the oven and baking pan size.

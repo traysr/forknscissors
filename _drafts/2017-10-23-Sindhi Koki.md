@@ -1,6 +1,9 @@
-Permalink: Sindhi Koki
+---
+layout: post
+title: "Sindhi Koki"
+---
 
-# Sindhi Koki
+
 # Serves: 2 persons
 
 ### Ingredients:
@@ -21,4 +24,4 @@ Permalink: Sindhi Koki
 2. Add whole wheat flour and again mix everything. Make a stiff dough using little water at a time. 
 3. Divide the dough into 5 equal balls. Roll out each ball into a round shape paratha. Heat a tava or griddle and transfer this rolled paratha on it. Brush with some oil or ghee.
 4. Flip and cook from both the sides. Cook until some brown spots appear. 
-5. Serve hot with yogurt or pickle. 
+5. Serve hot with yogurt or pickle.

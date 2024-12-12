@@ -1,6 +1,9 @@
-Permalink: Punjabi Kadhi Pakora
+---
+layout: post
+title: "Punjabi Kadhi Pakora"
+---
 
-# Punjabi Kadhi Pakora
+
 # Serves: 3
 
 ### Ingredients:
@@ -39,5 +42,4 @@ Permalink: Punjabi Kadhi Pakora
 5. Add sliced onion and ginger-garlic paste. Add turmeric powder and red chilli powder. Saute for a minute. 
 6. Add kadhi mixture slowly in the pan. Add 2 cups of water. Let it boil on a medium flame. Stir continiously while boiling to avoid lumps. 
 7. After one boil reduce the flame to simmer. Add all the pakoras and let it simmer for 15-20 minutes. Add chopped cilantro. 
-8. Serve hot with rice. 
-
+8. Serve hot with rice.

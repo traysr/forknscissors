@@ -1,6 +1,9 @@
-Permalink: Hot and sour soup
+---
+layout: post
+title: "Hot and sour soup"
+---
 
-# Hot and sour soup
+
 
 ### Ingredients:
 * ⅓ cup carrots finely chopped 
@@ -29,4 +32,4 @@ Permalink: Hot and sour soup
 
 ### Note:
 1. You can add 1 green chili finely chopped instead of schezwan sauce.
-2. Adjust water according to the consistency of soup you want. 
+2. Adjust water according to the consistency of soup you want.

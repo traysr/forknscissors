@@ -1,6 +1,9 @@
-Permalink: Tuvar Lilva Sabzi
+---
+layout: post
+title: "Tuvar Lilva Sabzi"
+---
 
-# Tuvar Lilva Sabzi
+
 
 _Tuvar lilva_ is a _Gujrati_ name for pigeon peas. In Maharashtra, it is known as _Turiche dane_. This is a winter special vegetable. There are different ways to make this _sabzi_ depending on the region. Following recipe is _Maharashtrian_ recipe which I used for years. 
 Try this recipe with roti or _bhakri_. 
@@ -36,5 +39,4 @@ Try this recipe with roti or _bhakri_.
 ### Notes:
 1. Cooking time for the peas depends on the microwave power. Adjust the time accordingly. 
 2. Always increase or reduce the number of chillies depending on the spice level you like. 
-3. While serving, you can add little lemon juice if you like. 
-
+3. While serving, you can add little lemon juice if you like.

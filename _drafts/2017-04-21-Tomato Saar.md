@@ -1,6 +1,9 @@
-Permalink: Tomato Saar
+---
+layout: post
+title: "Tomato Saar"
+---
 
-# Tomato Saar
+
 # Serves: 2 persons
 
 ### Ingredients: 
@@ -31,4 +34,3 @@ Permalink: Tomato Saar
 6. Pour this tadka on boiling tomato saar. Immediately add red chilli powder to it. Mix everything. Turn the flame to simmer. 
 7. Let it cook for another 5 minutes. Add chopped cilantro. Turn off the flame. 
 8. Serve hot with plain white rice or _Masale Bhat_.
-

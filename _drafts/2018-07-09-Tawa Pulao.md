@@ -1,6 +1,9 @@
-Permalink: Tawa Pulao
+---
+layout: post
+title: "Tawa Pulao"
+---
 
-# Tawa Pulao
+
 
 # Serves: 3-4 persons
 
@@ -27,4 +30,4 @@ Permalink: Tawa Pulao
 2. Add chopped bell pepper. Mix well and let it cook for a minute. add chopped tomatoes and salt to the pan. Cook everything for 5-7 minutes or until the tomatoes get cooked and mushy. 
 3. Add boiled green peas and chopped potatoes.Mix gently. Add pav-bhaji masala, red chilli powder, turmeric powder, and chopped cilantro. Mix well and cook for another 5 minutes. 
 4. Add kasuri methi and mix. Add cooked rice to the pan and mix everything very carefully. Let it cook for a minute on low-medium flame.
-5. Serve hot with raita or yogurt.  
+5. Serve hot with raita or yogurt.

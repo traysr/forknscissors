@@ -1,6 +1,9 @@
-Permalink: Sabudana Vada
+---
+layout: post
+title: "Sabudana Vada"
+---
 
-# Sabudana Vada
+
 
 ### Ingredients: 
 * 2 cups soaked sabudana
@@ -16,4 +19,4 @@ Permalink: Sabudana Vada
 2. Divide them into equal size of balls.  
 3. Heat oil in a pan. Add the round balls into the oil very carefully. Fry them on medium heat. 
 4. Fry them from the both sides. Drain on a paper towel. 
-5. Serve hot with yogurt. 
+5. Serve hot with yogurt.

@@ -1,8 +1,10 @@
-Permalink: Vegetable Frankie 
-Tags: Indian, Appetizer
+---
+layout: post
+title: "Vegetable Frankie :"
+tags: [Indian, Appetizer]
+---
 
-# Vegetable Frankie :
-![Vegetable Frankie](http://gallery.srujan.org/photos/i-FwHnqgg/3/L/i-FwHnqgg-L.jpg)
+
 
 ### Ingredients: 
 * ½ cup all purpose flour
@@ -27,4 +29,3 @@ Tags: Indian, Appetizer
 5. Heat a tava or griddle on a medium heat. Make leamon size balls out of the dough and dip each ball into the dry wheat flour and roll out into thin disc. 6. Place the rolled disc onto tava. Cook until you see bubbles on the surface. Then flip it and cook the other side. 
 7. Place the roti in a plate. add some stuffing at the end of the roti. Sprinkle some chat masala over it. Start rolling from the end and fold both 
 the sides. Continue rolling it tightly and serve immediately with ketchup.
-

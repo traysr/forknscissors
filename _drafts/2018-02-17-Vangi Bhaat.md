@@ -1,6 +1,9 @@
-Permalink: Vangi Bhaat
+---
+layout: post
+title: "Vangi Bhaat"
+---
 
-# Vangi Bhaat
+
 # Serves: 
 
 ### Ingredients:

@@ -1,6 +1,9 @@
-Permalink: Misal-Pav with Kat
+---
+layout: post
+title: "Misal-Pav with Kat"
+---
 
-# Misal-Pav with Kat
+
 
 # Serves: 2-3 persons
 
@@ -55,4 +58,4 @@ Permalink: Misal-Pav with Kat
 ### How to assemble:
 1. Get a bowl and add farsan. Then add matki usal or bean curry. Add hot kat or rassa on top. (you can add kat according to your spice level) 
 2. Garnish with some more farsan, chopped onion and chopped cilantro on top.  
-3. Serve hot with bread slices or dinner rolls. 
+3. Serve hot with bread slices or dinner rolls.

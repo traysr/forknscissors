@@ -1,6 +1,9 @@
-Permalink: Masala Milk
+---
+layout: post
+title: "Masala Milk"
+---
 
-# Masala Milk
+
 
 ### Ingredients:
 * 2 cups of milk
@@ -13,5 +16,4 @@ Permalink: Masala Milk
 1. Pour milk in a pan and start boiling it on a medium-high heat. 
 2. Once it starts boiling, reduce the heat to low. 
 3. Add sugar, milk masala, chironji and saffron. Let the milk boil for 10 minutes.
-4. Serve hot or cold.  
-
+4. Serve hot or cold.

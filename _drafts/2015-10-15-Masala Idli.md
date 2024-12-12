@@ -1,6 +1,9 @@
-Permalink: Masala Idli
+---
+layout: post
+title: "Masala Idli"
+---
 
-# Masala Idli
+
 
 ### Ingredients:
 * 1 serving idli batter
@@ -20,4 +23,4 @@ Permalink: Masala Idli
 3. Add idlis and gently stir it. Add dry idli chutney, salt, and pepper.
 4. Stir for a minutes and transfer it to a plate. Garnish it with chopped cilantro. 
 
-Note: I used mini idli mold for this recipe. You can use regular idlis too. Just cut them into small triangles. Be careful while adding salt since you have salt in idli and dry chutney too.  
+Note: I used mini idli mold for this recipe. You can use regular idlis too. Just cut them into small triangles. Be careful while adding salt since you have salt in idli and dry chutney too.

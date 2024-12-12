@@ -1,6 +1,9 @@
-Permalink: Coconut Mango Burfi
+---
+layout: post
+title: "Coconut Mango Burfi"
+---
 
-# Coconut Mango Burfi
+
 
 ### Ingredients:
 * 2 cups grated fresh coconut

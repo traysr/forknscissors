@@ -1,6 +1,9 @@
-Permalink: Rajma Tikki or Kidney Beans Patty
+---
+layout: post
+title: "Rajma Tikki or Kidney Beans Patty"
+---
 
-# Rajma Tikki or Kidney Beans Patty
+
 
 
 # Makes 15-16 patties

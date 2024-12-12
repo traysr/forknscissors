@@ -1,6 +1,9 @@
-Permalink: Vermicelli Kheer or Shevayanchi Kheer
+---
+layout: post
+title: "Vermicelli Kheer or Shevayanchi Kheer"
+---
 
-# Vermicelli Kheer or Shevayanchi Kheer
+
 # Serves: 4 persons
 
 ### Ingredients:
@@ -19,4 +22,4 @@ Permalink: Vermicelli Kheer or Shevayanchi Kheer
 3. Get another pan and add milk and sugar. Let it come to boil. Add roasted sevai to the boiling milk. 
 4. Turn the flame on low-medium and let it cook for about 10 minutes or until the sevai gets cooked. Add raisins and almomnds. 
 5. Let it simmer for another 5 minutes. Add cardamom powder and saffron to the Kheer. 
-6. Serve hot or cold. 
+6. Serve hot or cold.

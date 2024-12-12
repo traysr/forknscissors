@@ -1,5 +1,8 @@
-Permalink: Puranpoli
-# Puranpoli
+---
+layout: post
+title: "Puranpoli"
+---
+
 
 ### Ingredients:
 * 4 cup chana dal

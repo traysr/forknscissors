@@ -1,6 +1,9 @@
-Permalink: Nutella Mousse
+---
+layout: post
+title: "Nutella Mousse"
+---
 
-# Nutella Mousse
+
 
 # Serves: 6 individual glasses
 

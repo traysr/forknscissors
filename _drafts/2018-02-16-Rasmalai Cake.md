@@ -1,6 +1,9 @@
-Permalink: Rasmalai Cake
+---
+layout: post
+title: "Rasmalai Cake"
+---
 
-# Rasmalai Cake
+
 # Serves: 5-6 people
 
 ### Ingredients:
@@ -37,10 +40,4 @@ Permalink: Rasmalai Cake
 3. For this cake, I made small balls of paneer instead of usual square rasmalai balls.  It is also called Angoor rabdi. Of course you can always use store brought rasmalai to save time. 
 4. I always use 1% or fatfree milk for making paneer balls.
 5. I always sieve confectioner's sugar or icing sugar to remove lumps. 
-6. I used McCormick yellow food colour. Making rosette is optional. You can just place rasmalai balls on top and garnish with pistachios and saffron. You can use Wilton 1M or 2D tip for the decoration. 
-
-
-
-
-
-
+6. I used McCormick yellow food colour. Making rosette is optional. You can just place rasmalai balls on top and garnish with pistachios and saffron. You can use Wilton 1M or 2D tip for the decoration.

@@ -1,6 +1,9 @@
-Permalink: Sweet chutney
+---
+layout: post
+title: "Sweet chutney"
+---
 
-# Sweet chutney
+
 
 ### Ingredients: 
 * 1 cup seedless dates
@@ -22,4 +25,4 @@ Permalink: Sweet chutney
 
 ### Notes:
 * If you are using tamarind, then use seedless (½ cup). Add along with jaggary. 
-* After grinding the paste, strain the chutney through a strainer and then store it in a container. 
+* After grinding the paste, strain the chutney through a strainer and then store it in a container.

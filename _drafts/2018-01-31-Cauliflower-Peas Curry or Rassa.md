@@ -1,6 +1,9 @@
-Permalink: Cauliflower-Peas Curry or Rassa
+---
+layout: post
+title: "Cauliflower-Peas Curry or Rassa"
+---
 
-# Cauliflower-Peas Curry or Rassa
+
 # Serves: 2-3 persons
 
 The word curry or rassa means vegetables cooked with gravy. This is a very common subzi in Maharashtrian households. It's a combination of onion, ginger-garlic and mixed vegetables of your choice. 
@@ -34,4 +37,4 @@ The following recipe is a little different from the usual since it has no onion 
 3. Cook for 2 minutes stirring in between. Add cauliflower florets and green peas. Mix well. 
 4. Boil 2 cups of water in another pan. Add the boiling water to the vegetables. Cook on a medium heat. Let the vegetables cook properly. 
 5. Add cinnamon powder, clove powder, sambar masala, salt, and jaggery. Cook for another minute on low heat. 
-6. Turn off the heat. Garnish with chopped cilantro. Serve hot with raita and roti. 
+6. Turn off the heat. Garnish with chopped cilantro. Serve hot with raita and roti.

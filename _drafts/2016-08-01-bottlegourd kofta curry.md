@@ -1,12 +1,14 @@
 ---
-Permalink: KoftaCurry
-Tags: Indian, Main Course
+layout: post
+title: "Bottle gourd Kofta Curry"
+tags: [Indian, Main Course]
+---
+
+---
 Thumbnail: http://gallery.srujan.org/photos/i-5MvVKWp/0/Th/i-5MvVKWp-Th.jpg
 ---
 
-# Bottle gourd Kofta Curry
 (_a.k.a. Lauki Kofta Curry_)
-![Kofta Curry](http://gallery.srujan.org/photos/i-5MvVKWp/0/L/i-5MvVKWp-L.jpg)
 
 ### Ingredients: 
 * 1 Bottle gourd peeled (medium to large size) 
@@ -36,6 +38,4 @@ Thumbnail: http://gallery.srujan.org/photos/i-5MvVKWp/0/Th/i-5MvVKWp-Th.jpg
 5. Transfer the cooled mixture into a grinder and make a smooth paste. Add little water if needed.
 6. Heat 1½ table spoon of oil in the same pan and add the smooth paste to it. 
 7. Saute for 5 minutes. Add the water you kept aside with additional one cup of water to the paste and stir it properly. Boil the mixture for 10-15 minutes. 
-8. Before serving, add fritters to the curry. Sprinkle Kasuri methi on it. Serve immediately. 
-
-
+8. Before serving, add fritters to the curry. Sprinkle Kasuri methi on it. Serve immediately.

@@ -1,6 +1,9 @@
-Permalink: Batata Vada
+---
+layout: post
+title: "Batata Vada"
+---
 
-# Batata Vada
+
 
 # Serves: 3-4 persons
 
@@ -43,4 +46,4 @@ Permalink: Batata Vada
 ### To make vadas:
 1. Heat oil in a pan. Get the potato stuffing out from the refrigerator. Make equal size of medium sized balls. Dip the ball into the besan batter and coat it evenly. Drop immediately into the hot oil. You can add multiple potato balls at a time dpending on the pan size. 
 2. Deep fry them until light golden. Drain them on a paper to remove excess oil. 
-3. Serve hot with garlic chutney. 
+3. Serve hot with garlic chutney.

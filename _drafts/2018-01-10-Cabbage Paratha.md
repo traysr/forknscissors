@@ -1,6 +1,9 @@
-Permalink: Cabbage Paratha 
+---
+layout: post
+title: "Cabbage Paratha"
+---
 
-# Cabbage Paratha
+
 
 # Serves: 4 persons (around 16 parathas)
 

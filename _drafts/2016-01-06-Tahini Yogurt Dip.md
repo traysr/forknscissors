@@ -1,6 +1,9 @@
-Permalink: Tahini Yogurt Dip
+---
+layout: post
+title: "Tahini yogurt dip"
+---
 
-# Tahini yogurt dip
+
 
 ### Ingredient:
 * 1/2 cup sesame seeds
@@ -15,4 +18,4 @@ Permalink: Tahini Yogurt Dip
 1. Dry roast sesame seeds in a pan until they are slightly brown. 
 2. Add sesame seeds, garlic cloves, oilve oil, lemon juice and red chili powder in a blender. Make a fine paste. 
 3. Pour this paste in a bowl. Add yogurt and salt. Whisk together to a smooth paste. 
-4. Sprinkle some red chili powder on top and serve.  
+4. Sprinkle some red chili powder on top and serve.

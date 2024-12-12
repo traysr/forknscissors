@@ -1,6 +1,9 @@
-Permalink: Vegetable pasta with white sauce
+---
+layout: post
+title: "Vegetable pasta with white sauce"
+---
 
-# Vegetable pasta with white sauce
+
 
 ### Ingredients:
 * 1 cup penne pasta
@@ -34,4 +37,4 @@ Permalink: Vegetable pasta with white sauce
 1. Get a oven safe dish/bowl. Preheat oven to 200℉. Add pasta at the bottom. Add cooked vegetables on the pasta. 
 2. Add white sauce on top of it. Garnish with the shredded cheese. 
 3. Bake for 10-15 minutes or until the cheese get melted. 
-4. Serve hot with sriracha sauce. 
+4. Serve hot with sriracha sauce.

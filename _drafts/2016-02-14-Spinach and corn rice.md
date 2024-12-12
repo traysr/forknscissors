@@ -1,6 +1,9 @@
-Permalink: Spinach and corn rice
+---
+layout: post
+title: "Spinach and corn rice "
+---
 
-# Spinach and corn rice 
+
 
 ### Ingredients:
 * 1 cup spinach puree
@@ -31,5 +34,4 @@ Permalink: Spinach and corn rice
 5. Add a teaspoon of oil in a small pan. Add cashew pieces. Fry until they become light golden. Add fried cashews to the spinach puree. Mix well. 
 6. Add cooked rice to the puree and mix everything properly. Add a tablespoon of lemon juice to the rice. Switch the flame to simmer and put the lid on the pan. Let it cook for 20-25 minutes. 
 7. Add a tablespoon of butter/ghee to the sides of rice and turn of the flame. 
-8. Serve hot with mix vegetable raita.  
-
+8. Serve hot with mix vegetable raita.

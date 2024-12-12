@@ -1,6 +1,9 @@
-Permalink: Gobi Manchurian
+---
+layout: post
+title: "Gobi Manchurian"
+---
 
-# Gobi Manchurian
+
 
 # Serves: 4 persons
 
@@ -36,5 +39,4 @@ Permalink: Gobi Manchurian
 4. Mix all the ingredients for sauce in a seperate bowl and keep it aside. 
 5. Heat 2 tablespoon oil in a pan. Add ginger and garlic. Add chopped onion and saute everything. Add chopped bell pepper and fry for a while. 
 6. Add all the ingredients for sauce, salt and sugar. Mix properly. Add fried cauliflower florets and mix gently. Cook for a while ( about 5 to 10 minutes)  Turn off the flame. Sprinkle chopped greens on top. 
-7. Serve immediately. 
-
+7. Serve immediately.

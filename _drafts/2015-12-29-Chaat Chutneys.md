@@ -1,6 +1,9 @@
-Permalink: Chaat Chutneys
+---
+layout: post
+title: "Chaat Chutneys"
+---
 
-# Chaat Chutneys
+
 
 ### Green Chutney Ingredients:
 * 1 cup cilantro leaves
@@ -40,5 +43,4 @@ Permalink: Chaat Chutneys
 
 ### Method:
 1. Soak red chillies in a enough water for 4-5 hours. 
-2. Add garlic pods, chillies, lemon juice and salt in a mixer jar  and make a fine paste. You can use little water while grinding. 
-
+2. Add garlic pods, chillies, lemon juice and salt in a mixer jar  and make a fine paste. You can use little water while grinding.

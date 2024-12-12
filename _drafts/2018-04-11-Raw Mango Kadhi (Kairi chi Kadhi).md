@@ -1,6 +1,9 @@
-Permalink: Raw Mango Kadhi (Kairi chi Kadhi)
+---
+layout: post
+title: "Raw Mango Kadhi (Kairi chi Kadhi)"
+---
 
-# Raw Mango Kadhi (Kairi chi Kadhi)
+
 
 # Serves: 3-4 persons
 

@@ -1,6 +1,9 @@
-Permalink: Instant pot sabut masoor
+---
+layout: post
+title: "Instant pot sabut masoor"
+---
 
-# Instant pot sabut masoor
+
 
 ### Serves: 3-4 persons
 
@@ -27,4 +30,4 @@ Permalink: Instant pot sabut masoor
 3. Add turmeric powder, red chilli powder, coriander powder, garam masala, and salt. Mix well and add rinsed masoor. Add water and mix everything. 
 4. Cancel the saute mode. Put the lid on into sealing position. Press manual for 10 minutes on high setting. 
 5. After 10 minutes, let the pressure realese naturally. As the pin drops, open the lid. Add lemon juice and mix everything with the spatula. 
-6. Add chopped cilantro and serve hot with roti. 
+6. Add chopped cilantro and serve hot with roti.

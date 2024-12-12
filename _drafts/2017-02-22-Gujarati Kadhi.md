@@ -1,6 +1,9 @@
-Permalink: Gujarati Kadhi
+---
+layout: post
+title: "Gujarati kadhi"
+---
 
-# Gujarati kadhi
+
 
 ### Ingredients:
 * 2 cup yogurt
@@ -24,4 +27,4 @@ Permalink: Gujarati Kadhi
 2. In another pan, let's start tempering. Add ghee and oil together. Add cumin seeds, asafoetida, ginger-chili paste, fenugreek seeds, curry leaves, cloves, and dry red chili. let it sizzle while stiring it with a spoon. 
 3. As soon as yougurt mixture comes to boil, add ghee and oil mixture to it. Turn the flame to low. 
 4. Let it simmer for a while. Garnish with chopped cilantro. 
-5. Serve hot with plain rice.  
+5. Serve hot with plain rice.

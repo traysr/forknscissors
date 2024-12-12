@@ -1,6 +1,9 @@
-Permalink: White Sauce
+---
+layout: post
+title: "White Sauce"
+---
 
-# White Sauce
+
 
 ### Ingredients: 
 * 1 tablespoon of butter
@@ -11,4 +14,4 @@ Permalink: White Sauce
 ### Method:
 1. Melt the butter in a heated pan over a medium heat. Add flour and stir until butter and flour are combined. 
 2. Add milk and stir continuously. Add salt and pepper. 
-3. Turn of the heat as it gets thicken. 
+3. Turn of the heat as it gets thicken.

@@ -1,6 +1,9 @@
-Permalink: Bread Paneer Roll
+---
+layout: post
+title: "Bread Paneer Roll"
+---
 
-# Bread Paneer Roll
+
 
 ### Ingredients:
 * 10 bread slices
@@ -25,4 +28,4 @@ Permalink: Bread Paneer Roll
 8. Serve hot with Ketchup.  
 
 ### Note:
-1. You can use ginger-garlic paste or garam masala with the other spices. 
+1. You can use ginger-garlic paste or garam masala with the other spices.

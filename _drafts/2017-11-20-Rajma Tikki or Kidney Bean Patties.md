@@ -1,6 +1,9 @@
-Permalink: Rajma Tikki or Kidney Bean Patties
+---
+layout: post
+title: "Rajma Tikki or Kidney Bean Patties"
+---
 
-# Rajma Tikki or Kidney Bean Patties
+
 
 # Serves 4 ( makes around 20-22)
 
@@ -23,8 +26,4 @@ Permalink: Rajma Tikki or Kidney Bean Patties
 4. Add chopped brown bread slices into a grinder and make breadcrumbs. Add it to the rajma mixture.
 5. Mash everything with a masher or with your hands. Check the salt. Mix everything properly. Make around 20-22 medium sized patties and keep them covered in the refrigerator for 15 minutes. 
 6. Heat a pan or griddle. Apply some cooking spray and place the patties on it. Cook them till they are golden brown. Flip and do the same procedure. 
-7. Serve hot with chutney or ketchup. 
- 
-
-
-
+7. Serve hot with chutney or ketchup.

@@ -1,4 +1,7 @@
-Permalink: Vegetable Enchiladas
+---
+layout: post
+---
+
 
 
 ### Vegetable Enchiladas
@@ -31,4 +34,4 @@ Permalink: Vegetable Enchiladas
 1. Pre-heat oven to 375℉. Grease 9x13 inches baking dish with a tablespoon of olive oil. Pour ¾ cup of enchilada sauce. 
 2. I used 7 10 inch tortillas for this recipe. I cut them in half and place enough stuffing in the middle . Sprinkle some cheese ( optional) on top. Roll tortilla tightly and place them on a baking sheet on top of sauce. Make sure the seam side is down. Repeat the same procedure with all the tortillas. 
 3. Pour ¾ cup of enchilada sauce on top of all the prepared tortillas. Spread remaining cheese on top evenly. Cover the baking dish with aluminum foil. Place the dish into the oven and cook for 15-20 minutes. 
-4. Remove from the oven and let it rest outside for 15 minutes. Carefully remove the foil and sprinkle chopped cilantro on top. Serve each tortilla on a plate. Enjoy with sour cream, guacamole and chips. 
+4. Remove from the oven and let it rest outside for 15 minutes. Carefully remove the foil and sprinkle chopped cilantro on top. Serve each tortilla on a plate. Enjoy with sour cream, guacamole and chips.

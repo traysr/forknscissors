@@ -1,6 +1,9 @@
-Permalink: Sooji Vada
+---
+layout: post
+title: "Sooji Vada"
+---
 
-# Sooji Vada
+
 
 # Serves: makes 10-12 vadas
  
@@ -23,4 +26,4 @@ Permalink: Sooji Vada
 5. Serve immediately with sambhar or chutney. 
 6. If you are not able to shape the vada properly, just get a lemon size batter in your hands, flatten it and slide into the oil. 
 
-### Checkout the easy recipe for 'Instant Sooji Appe' too. 
+### Checkout the easy recipe for 'Instant Sooji Appe' too.

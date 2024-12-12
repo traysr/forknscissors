@@ -1,6 +1,9 @@
-Permalink: Strawberry Jam in Instant Pot
+---
+layout: post
+title: "Strawberry Jam in Instant Pot"
+---
 
-# Strawberry Jam in Instant Pot
+
 
 # Around 2 cups
 

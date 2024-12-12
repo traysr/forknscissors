@@ -1,6 +1,9 @@
-Permalink: Vegetable Cutlet
+---
+layout: post
+title: "Vegetable Cutlet"
+---
 
-# Vegetable Cutlet
+
 
 # Makes 15 pieces
 
@@ -31,4 +34,4 @@ Permalink: Vegetable Cutlet
 ### Note:
 * You can use bread crumbs instead of semolina.
 * You can add finely chopped green chili instead of red chili powder. 
-* You can get rice flour for the batter if you dont want to use all purpose flour. 
+* You can get rice flour for the batter if you dont want to use all purpose flour.

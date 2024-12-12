@@ -1,7 +1,10 @@
-Permalink: Sprouted Moong Paratha
-Tags: Indian 
+---
+layout: post
+title: "Sprouted Moong Paratha"
+tags: [Indian]
+---
 
-# Sprouted Moong Paratha
+
 
 ### Ingredients:
 

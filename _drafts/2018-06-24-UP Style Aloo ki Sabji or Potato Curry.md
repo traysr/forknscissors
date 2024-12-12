@@ -1,6 +1,9 @@
-Permalink: UP Style Aloo ki Sabji or Potato Curry
+---
+layout: post
+title: "UP Style Aloo ki Sabji or Potato Curry"
+---
 
-# UP Style Aloo ki Sabji or Potato Curry
+
 
 # Serves: 2-3 persons
 
@@ -42,4 +45,4 @@ Lets have a look at the recipe which I learned from my mother-in-law :)
 ### Notes:
 1. If you want to use regular potatoes, use 2 medium size potatoes.
 2. Sometimes, I also add ¼ teaspoon cinnamon powder and ¼ teaspoon clove powder to the curry with all other spices. This makes your subzi little more spicy. 
-3. While making Puri, add a teaspoon of roughly crushed ajwain(carom seeds) or Kalonji(onion seeds) to the flour. 
+3. While making Puri, add a teaspoon of roughly crushed ajwain(carom seeds) or Kalonji(onion seeds) to the flour.

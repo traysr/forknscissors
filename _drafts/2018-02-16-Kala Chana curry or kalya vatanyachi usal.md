@@ -1,5 +1,8 @@
-Permalink: Kala Chana curry or kalya vatanyachi usal 
-# Kala Chana curry or kalya vatanyachi usal 
+---
+layout: post
+title: "Kala Chana curry or kalya vatanyachi usal "
+---
+
 
 # Serves: 2 persons
 
@@ -29,4 +32,4 @@ Permalink: Kala Chana curry or kalya vatanyachi usal
 5. Cook for a minute. Add ½ cup water. Let everything boil properly. Add chopped cilantro. 
 6. Add cooked chana to the boiling paste along with the water. Add salt to taste. 
 7. Let the mixture cook for 10 minutes. Turn off the heat and put the lid on. Let it cook on a steam for 5 more minutes. 
-8. Garnish with cilantro. Serve hot with roti. 
+8. Garnish with cilantro. Serve hot with roti.

@@ -1,6 +1,9 @@
-Permalink: Chaas or Buttermilk
+---
+layout: post
+title: "chaas or Buttermilk"
+---
 
-# chaas or Buttermilk
+
 
 # Serves:2
 
@@ -13,5 +16,4 @@ Permalink: Chaas or Buttermilk
 ### Method:
 1. Add yogurt, salt, and asafoetida in a bowl. Whisk it. 
 2. Add water and whisk again. I like my buttermilk to be thin. So adjust water according to your preference. 
-3. Serve immediately. 
-
+3. Serve immediately.

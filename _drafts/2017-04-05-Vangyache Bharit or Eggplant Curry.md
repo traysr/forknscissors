@@ -1,6 +1,9 @@
-Permalink: Vangyache Bharit or Eggplant Curry
+---
+layout: post
+title: "Vangyache Bharit or Eggplant Curry"
+---
 
-# Vangyache Bharit or Eggplant Curry
+
 
 ### Ingredients:
 * 1 eggplant (big) 
@@ -23,4 +26,4 @@ Permalink: Vangyache Bharit or Eggplant Curry
 3. Heat a tablespoon oil in a pan. Add mustrad seeds, cumin seeds and let them splatter. Add asafoetida, turmeric and ginger-garlic paste. Stir it and add chopped onion. saute for 5 minutes. Add chopped tomatoes. Cook everything until the raw smell goes away. 
 Add red chilli powder, salt and chopped cilantro. 
 4. Peel away the skin of an eggplant and take the pulp out. (I usually discard the seeds but you can keep them) Mash it with your hands or fork. Add this mashed pulp into the tomato mixture. Mix well. Cook on a low-medium flame. Check for the salt and spicyness. Add more if needed. 
-5. Serve hot with Bhakri. 
+5. Serve hot with Bhakri.

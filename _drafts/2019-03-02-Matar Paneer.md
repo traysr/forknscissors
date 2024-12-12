@@ -1,6 +1,9 @@
-Permalink: Matar Paneer 
+---
+layout: post
+title: "Matar Paneer"
+---
 
-# Matar Paneer
+
 
 # Serves: 4-5 persons
 
@@ -59,5 +62,4 @@ You can completely avoid using mawa too. Then, you may want to increase fresh cr
 2. Kashmiri red chilli powder can be easily found in Indian grocery shop. This chilli powder is good for the colour of your gravy and it is less spicy. If you dont have one, use regular chilli powder according to your spice level. 
 3.If you want to store the gravy, Let it cool down completely. Store it in a proper freezer airtight container. Store it in a freezer and not in the refrigerator. 
 4. For defrosting,remove gravy from the freezer at least 6-7 hours before. Keep the container in a room temperature. (may be on the countertop) Once you defroast the gravy, do not put it back in the freezer. You have to use all the gravy. 
-5. If you want to use red food colour , you can use it. 
-
+5. If you want to use red food colour , you can use it.

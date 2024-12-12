@@ -1,6 +1,9 @@
-Permalink: Olya naralachi Karanji 
+---
+layout: post
+title: "Olya naralachi Karanji "
+---
 
-# Olya naralachi Karanji 
+
 
 # Makes around 25 karanjis
 
@@ -30,4 +33,4 @@ Permalink: Olya naralachi Karanji
 4.  Roll out the ball into a thin circle. Add spoonful of stuffing in the center. ( Do not add too much stuffing since it may come out while frying)  
 4. Apply little milk at the edges of the circle. Seal the edges tightly. Make a design with a fork and remove the extra dough. Make all the _karanjis_ and cover them with a wet cloth. 
 5. Heat oil in a pan. Place these _karanjis_ in a oil. Fry them on a medium heat until them become golden from both the sides. Drain them on a paper. 
-6. Cool them completely and store them in a airtight container. 
+6. Cool them completely and store them in a airtight container.

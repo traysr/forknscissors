@@ -1,7 +1,10 @@
-Permalink: Lachha Paratha
-Tags: Indian, Breakfast, Breads
+---
+layout: post
+title: "Lachha Paratha : "
+tags: [Indian, Breakfast, Breads]
+---
 
-# Lachha Paratha : 
+
  
  ### Ingredients:
  * 2 cups whole wheat flour + 1 cup of flour for dusting

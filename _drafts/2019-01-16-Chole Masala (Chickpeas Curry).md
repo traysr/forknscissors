@@ -1,6 +1,9 @@
-Permalink: Chole Masala (Chickpea Curry)
+---
+layout: post
+title: "Chole Masala (Chickpea Curry)"
+---
 
-# Chole Masala (Chickpea Curry)
+
 
 # Serves: 2 persons
 
@@ -50,4 +53,4 @@ To cook Chickpeas:
 2. To soak chana dal (bengal gram lentils)
 *  Add 1 tablespoon lentil in a bowl. Add ½ cup water and soak for 30 minutes. Later, drain the water and add soaked lentils to the pressure cooker with chickpeas.
 
-3. You can use 1 tablespoon chopped mint leaves with 1 tablespoon chopped cilantro. 
+3. You can use 1 tablespoon chopped mint leaves with 1 tablespoon chopped cilantro.

@@ -1,4 +1,7 @@
-Permalink: Sweet Shankarpale
+---
+layout: post
+---
+
 
 ### Sweet Shankarpale
 
@@ -18,4 +21,4 @@ Permalink: Sweet Shankarpale
 3. heat oil in a kadai or pan. Make medium size balls from the dough. Get one ball and roll in a thick round shape. 
 4. Cut the rolled ball into desired shape ( diamond or square) using knief or pizza cutter.  
 5. Deep fry them till golden brown color. Drain on a paper. 
-6. Cool down completely and store them in a airtight container. 
+6. Cool down completely and store them in a airtight container.

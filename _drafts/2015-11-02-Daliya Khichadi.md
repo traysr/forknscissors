@@ -1,6 +1,9 @@
-Permalink: Daliya Khichadi
+---
+layout: post
+title: "Daliya Khichadi"
+---
 
-# Daliya Khichadi
+
 
 ### Ingredients:
 * ½ cup daliya or broken wheat
@@ -24,4 +27,4 @@ Permalink: Daliya Khichadi
 3. Add chili-ginger paste and mix it. Add green peas and saute for a minute. Add daliya and daal mixture. Add salt and sugar and mix it properly. 
 4. Add water in the mixture and give a proper stir. When it starts boiling, put the lid on and cook the khichadi for 2-3 whistles. 
 5. When the pressure is down, open the lid and stir the khichadi. Add a teaspoon of ghee or butter. 
-6. Serve hot. 
+6. Serve hot.

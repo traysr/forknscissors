@@ -1,6 +1,9 @@
-Permalink: Masala Lachha Paratha
+---
+layout: post
+title: "Masala Lachha Paratha"
+---
 
-# Masala Lachha Paratha
+
 # Makes 6-7 parathas
 
 ### Ingredients: 
@@ -21,5 +24,3 @@ Permalink: Masala Lachha Paratha
 6. Now roll the dough like a swiss roll or pinwheel. Press the circle with your hands and start rolling again. Use the wheat flour to roll.
 7. Heat tava or griddle and place paratha on it. When it starts changing its color, flip the paratha and cook on the other side.
 8. Apply ghee on top and serve immediately.
-
-

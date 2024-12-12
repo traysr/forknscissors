@@ -1,6 +1,9 @@
-Permalink: Masale bhat masala 
+---
+layout: post
+title: "Masale bhat masala"
+---
 
-# Masale bhat masala
+
 
 ### Ingredients:
 * 1 cup coriander seeds
@@ -12,4 +15,4 @@ Permalink: Masale bhat masala
 
 ### Method:
 1. Dry roast all the ingredients and grind it with the grinder. 
-2. Store in a airtight container. 
+2. Store in a airtight container.

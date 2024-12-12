@@ -1,6 +1,9 @@
-Permalink: Bharli Vangi or Stuffed Eggplant
+---
+layout: post
+title: "Bharli Vangi or Stuffed Eggplant"
+---
 
-# Bharli Vangi or Stuffed Eggplant
+
 
 # Serves: 4-5 persons
 
@@ -55,4 +58,4 @@ Let's start in making:
 2. I always use kashmiri red chilli powder. It gives perfect red colour to the food without increasing spice level.
 3. I use tamarind pulp which is available in stores. 
 4. Potatoes are optional. You can add more eggplants if you wish to. 
-5. This subji is little more oily than the regular subjis. Do not hesitate to add oil since it will be more tasty. 
+5. This subji is little more oily than the regular subjis. Do not hesitate to add oil since it will be more tasty.

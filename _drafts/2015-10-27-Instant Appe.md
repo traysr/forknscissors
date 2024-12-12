@@ -1,6 +1,9 @@
-Permalink: Instant Appe
+---
+layout: post
+title: "Instant Appe"
+---
 
-# Instant Appe
+
 
 ### Ingredients:
 

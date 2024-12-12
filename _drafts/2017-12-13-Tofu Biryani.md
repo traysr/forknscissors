@@ -1,6 +1,9 @@
-Permalink: Tofu Biryani
+---
+layout: post
+title: "Tofu Biryani"
+---
 
-# Tofu Biryani
+
 # Serves: 2 persons
 
 ### Ingredients:
@@ -64,4 +67,4 @@ Permalink: Tofu Biryani
 2. Add half of the fried sliced onion over the vegetable layer.
 3. Add rice layer again, following the vegetable layer. The top layer should be rice layer. Add chopped cilantro, mint, and fried onion on top.
 4. Turn on the flame on low-medium heat. Put the tava on it. Place the biryani pan on it. Put the lid on and let it cook for 30 minutes.
-5. Serve hot. 
+5. Serve hot.

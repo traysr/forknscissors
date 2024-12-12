@@ -1,6 +1,9 @@
-Permalink: Shrikhand
+---
+layout: post
+title: "Shrikhand"
+---
 
-# Shrikhand
+
 
 ### Ingredients:
 * 2 yogurt tin (32oz each)
@@ -15,4 +18,4 @@ Permalink: Shrikhand
 4. If you have _Puran yantra_, then add the _Chakka_ and sugar in it. and blend it properly. 
 5. Add saffron, nutmeg powderor cardamom powder and give a quick stir. 
 Garnish with slivered almonds. chopped pistachio.
-6. Keep it in the refrigerator. Serve chill. 
+6. Keep it in the refrigerator. Serve chill.

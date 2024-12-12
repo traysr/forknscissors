@@ -1,6 +1,9 @@
-Permalink: Vegetable Fried Rice
+---
+layout: post
+title: "Vegetable Fried Rice"
+---
 
-# Vegetable Fried Rice
+
 
 ### Ingredients:
 * 2 cups long grain rice 
@@ -21,4 +24,4 @@ Permalink: Vegetable Fried Rice
 4. Serve hot. 
 
 ### Note:
-1. you can add 1 tablespoon of schezwan sauce to the rice for the spiciness. 
+1. you can add 1 tablespoon of schezwan sauce to the rice for the spiciness.

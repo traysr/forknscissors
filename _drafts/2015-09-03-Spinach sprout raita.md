@@ -1,8 +1,10 @@
-Permalink: Spinach Sprout Raita
-Tags: Indian, Salad 
+---
+layout: post
+title: "Spinach sprout raita"
+tags: [Indian, Salad]
+---
 
-# Spinach sprout raita
-![Spinach sprout raita](http://gallery.srujan.org/photos/i-ZnB26mX/0/L/i-ZnB26mX-L.jpg) 
+
 
 ### Ingredients:
 * 1 cup chopped spinach
@@ -26,4 +28,3 @@ Tags: Indian, Salad
 4. When mustard seeds start to crackle, add asafoeida and dry red chillies and fry it.
 4. Pour this tempering on yogurt mixture.
 5. Transfer it to a serving bowl and serve it with rice, biryani or roti.
-

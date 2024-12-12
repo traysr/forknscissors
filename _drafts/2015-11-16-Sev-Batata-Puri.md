@@ -1,6 +1,9 @@
-Permalink: Sev-Batata-Puri
+---
+layout: post
+title: "Sev-Batata-Puri"
+---
 
-# Sev-Batata-Puri
+
 
 ### Ingredients:
 * Puris
@@ -18,4 +21,4 @@ Permalink: Sev-Batata-Puri
 3. Place puris in a plate. Poke a hole on top. Add a teaspoon of potato mixture in each puri. 
 Add both the chutneys according to your taste. Add fine sev on top. 
 4. Sprinkle chaat masala and cilantro on each puri. 
-5. Serve immediately. 
+5. Serve immediately.

@@ -1,6 +1,9 @@
-Permalink: Sambar (Instant pot recipe)
+---
+layout: post
+title: "Sambar (Instant pot recipe)"
+---
 
-# Sambar (Instant pot recipe)
+
 
 # Serves: 4 persons
 

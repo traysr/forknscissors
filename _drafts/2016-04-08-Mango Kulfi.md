@@ -1,6 +1,9 @@
-Permalink: Mango Kulfi
+---
+layout: post
+title: "Mango Kulfi"
+---
 
-# Mango Kulfi
+
 
 ### Ingredients:
 * 2 cans evaporated milk 

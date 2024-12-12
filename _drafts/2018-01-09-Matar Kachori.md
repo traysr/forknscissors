@@ -1,6 +1,9 @@
-Permalink: Matar Kachori
+---
+layout: post
+title: "Matar Kachori"
+---
 
-# Matar Kachori
+
 
 # Serves: 12-15 kachoris
 
@@ -45,4 +48,4 @@ Permalink: Matar Kachori
 4. Gently roll out the filled kachori into a small circle making sure the stuffing is not coming out. Repeat the same procedure for rest of the kachoris.
 5. Heat oil in a pan. Add 2-3 kachoris at a time and deep fry them till they are golden brown.
 6. Drain the fried kachoris on a paper towel. 
-7. Serve immediately with green chutney or tomato ketchup. 
+7. Serve immediately with green chutney or tomato ketchup.

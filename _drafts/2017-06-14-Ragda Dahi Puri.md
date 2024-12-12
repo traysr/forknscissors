@@ -1,6 +1,9 @@
-Permalink: Ragda Dahi Puri
+---
+layout: post
+title: "Ragda Dahi Puri"
+---
 
-# Ragda Dahi Puri
+
 
 ### Ingredients:
 * 1 serving Ragda 
@@ -26,4 +29,4 @@ Permalink: Ragda Dahi Puri
 5. Serve immediately. 
 
 ### Note: 
-1. You can use 'Aloo bhujiya Sev' instead of fine sev. Then you don't have use chaat masala since aloo bhujiya sev has enough salt. 
+1. You can use 'Aloo bhujiya Sev' instead of fine sev. Then you don't have use chaat masala since aloo bhujiya sev has enough salt.

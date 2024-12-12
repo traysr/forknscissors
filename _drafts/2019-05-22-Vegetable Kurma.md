@@ -1,6 +1,9 @@
-Permalink: Vegetable Kurma
+---
+layout: post
+title: "Vegetable Kurma"
+---
 
-# Vegetable Kurma
+
 
 # Serves: 4 persons
 
@@ -34,4 +37,4 @@ Permalink: Vegetable Kurma
 5. Add chopped tomatoes and cook until the raw smell of tomatoes goes away. Add all the boiled vegetables and potato chunks into the pan and mix everything. 
 5. Add coconut paste and mix everything. Add all the spices and 1 cup water. Add salt to taste. 
 6. Boil the curry for 1-2 minutes on a low-medium heat. Turn off the heat and put the lid on. Keep it for 5 mintes. 
-7. Add chopped cilantro and serve hot with roti or plain rice.    
+7. Add chopped cilantro and serve hot with roti or plain rice.

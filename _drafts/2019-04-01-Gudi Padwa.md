@@ -1,4 +1,7 @@
-Permalink: Gudi Padwa 
+---
+layout: post
+---
+
 
 
 Gudi Padwa is an auscipious day and new year for Maharashtrian community. It marks the begining of spring. This festival is celebrated on the first day of the month of Chaitra according to Hindu Lunar calendar. 
@@ -36,8 +39,3 @@ Here is my Gudi Padwa Thali:
 
 ### Chaitra Gauri Haldi Kumkum:
 Chaitra Gauri Haldi kumkum festival is celebrated from the third day after Gudi Padwa for a month. Here are some of the glimpses of my celebration:
-
-
-
-
-

@@ -1,6 +1,9 @@
-Permalink: Maharashtrian Gavran Thali 
+---
+layout: post
+title: "Maharashtrian Gavran Thali"
+---
 
-# Maharashtrian Gavran Thali
+
 
 # Thali is a plate with a full meal. Today, I prepared my version of vegetarian 'Gavran thali'. The word 'Gavran' means rural or country side. This meal is supposed to be a farmer's meal but because of it's healthy benefits and awesome taste, it has become popular in cities too. 
 
@@ -19,8 +22,4 @@ Also, for rice flour bhakri, check out the recipe link:
 
 
 # Fifth ingredient is 'Taak' or 'Buttermilk'. This yogurt drink is very popular in India. You can drink simple version or masala version of buttermilk. It helps to digest your meal. 
-Check out the recipe link below: 
-
-
-
-
+Check out the recipe link below:

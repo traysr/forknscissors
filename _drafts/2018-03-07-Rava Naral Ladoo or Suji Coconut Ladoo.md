@@ -1,6 +1,9 @@
-Permalink: Rava Naral Ladoo or Suji Coconut Ladoo
+---
+layout: post
+title: "Rava Naral Ladoo or Suji Coconut Ladoo"
+---
 
-# Rava Naral Ladoo or Suji Coconut Ladoo
+
 # Makes 10-12 ladoos
 
 
@@ -23,4 +26,4 @@ Permalink: Rava Naral Ladoo or Suji Coconut Ladoo
  3. Let's start making the sugar syrup. Add water and sugar in a pan and bring it to boil. Add pinch of saffron. Prepare one string consistency syrup. 
  4. Add this sugar syrup to the roasted sooji and coconut mixture. Mix well to make sure there are no lumps. Add cardamom powder and raisins.
  5. Let the mixture cool down for 2-3 hours. The sooji-coconut mixture will absorb all the sugar syrup. 
- 6. Make round shape ladoos. 
+ 6. Make round shape ladoos.

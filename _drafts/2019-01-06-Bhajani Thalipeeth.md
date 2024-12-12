@@ -1,6 +1,9 @@
-Permalink: Bhajani Thalipeeth 
+---
+layout: post
+title: "Bhajani Thalipeeth"
+---
 
-# Bhajani Thalipeeth
+
 
 # Serves: 3 persons
 

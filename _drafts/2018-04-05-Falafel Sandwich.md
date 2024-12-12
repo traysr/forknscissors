@@ -1,6 +1,9 @@
-Permalink:Falafel Sandwich
+---
+layout: post
+title: "Falafel Sandwich"
+---
 
-# Falafel Sandwich
+
 
 # Serves: 4
  Falafel is a very popular Middle Eastern food. It is a deep fried patty prepared with chickpeas and served with pita bread. In this recipe, I prepared half deep fried and half shallow fried. This is my family favourite meal and we enjoy with yougurt dill sauce or hummus. Sometimes, we just eat patties as a snack. 
@@ -51,4 +54,4 @@ Permalink:Falafel Sandwich
 
 ### To assemble:
 1. Cut pita bread into half. Warm them in a microwave for 15 seconds. Place lettuce at the bottom inside one half of pita. Place 2 falafel, cucumber slices, tomato slices. Top with yogurt dill sauce. 
-2. Serve immediately and enjoy!    
+2. Serve immediately and enjoy!

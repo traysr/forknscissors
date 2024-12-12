@@ -1,6 +1,9 @@
-Permalink: Methi Paratha
+---
+layout: post
+title: "Methi Paratha"
+---
 
-# Methi Paratha
+
 
 # Serving: 3-4 persons
 
@@ -26,4 +29,4 @@ Permalink: Methi Paratha
 1. Get one ball, dust into the flour. Roll out to a small circle. Brush the surface of the circle with little oil. Sprinkle some flour on it. Fold the circle into a triangle. 
 2. Dip the triangle into the flour and roll out into a big circle or a triangle. Place the rolled paratha on tava/griddle and brush the sides and the center with some oil. Cook from both the sides by flipping to the other side.  Do the same thing with rest of the balls.
 
-8. Serve hot with ketchup or green chutney or yogurt.   
+8. Serve hot with ketchup or green chutney or yogurt.

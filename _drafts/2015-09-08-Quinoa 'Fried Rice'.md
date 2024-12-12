@@ -1,7 +1,10 @@
-Permalink: Quinoa 'Fried Rice'
-Tags: Main course
+---
+layout: post
+title: "Quinoa 'Fried Rice' :"
+tags: [Main course]
+---
 
-# Quinoa 'Fried Rice' :
+
 
 ### Ingredients: 
 * 1 cup Quinoa uncooked
@@ -21,6 +24,4 @@ Tags: Main course
 3. Heat a tablespoon of oil in a pan, add onions and saute for a while. Add all the vegetables (except scallions) Let them cook.
 4. Add salt, Pepper, soy sauce,and ketchup. Give it a proper stir.   
 5. Add quinoa, mix it properly and let it cook for 1-2 minutes. 
-6. finally add scallions and serve immediately. 
-
-
+6. finally add scallions and serve immediately.

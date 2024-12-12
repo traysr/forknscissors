@@ -1,7 +1,10 @@
-Permalink: Vegetable Pulao
-Tags: Indian
+---
+layout: post
+title: "Vegetable Pulao"
+tags: [Indian]
+---
 
-# Vegetable Pulao
+
 
 ### Ingredients:
 * 1 cup Basamati Rice
@@ -30,6 +33,4 @@ Tags: Indian
 9. Check on the rice. If it is cooked, switch off the flame. Add lemon juice and stir it carefully. Put the lid back on.
 10. Heat 2 tablespoon of oil in another pan. Add cashews and fry them until they are golden. Drain the cashews on the paper. In the same oil, add half of the sliced onions and fry until it becomes golden brown. Drain it on the paper. 
 11. Garnish pulao with cashews, fried onions and chopped cilantro. 
-12. Serve it with Daal-Fry. 
-
-
+12. Serve it with Daal-Fry.

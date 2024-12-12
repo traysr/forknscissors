@@ -1,6 +1,9 @@
-Permalink: Thai Red Curry
+---
+layout: post
+title: "Thai Red Curry"
+---
 
-# Thai Red Curry
+
 
 # Serves: Around 3-4 persons
 
@@ -40,4 +43,4 @@ Red thai curry is incredibly delicious recipe to make at home. Loads of vegetabl
 * you can use any vegetables of your choice. You can add handful of spinach or kale to the curry. 
 * Traditionally fish sauceis used in the recipe. Since i prefer vegan version,I used soy sauce.
 * I used light coconut milk. You can reduce or add the quantity of water according to your choice. 
-* I like to use uncooked tofu in the curry. 
+* I like to use uncooked tofu in the curry.

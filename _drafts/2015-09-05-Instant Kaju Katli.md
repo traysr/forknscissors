@@ -1,8 +1,11 @@
-Permalink: Instant Kaju Katli
-Tags: Indian, Dessert 
+---
+layout: post
+title: "Instant Rose flovered Kaju Katli :  "
+tags: [Indian, Dessert]
+---
+
 Thumbnail: 
 
-# Instant Rose flovered Kaju Katli :  
 
 !
 
@@ -20,6 +23,4 @@ Thumbnail:
 2. Microwave it for 1 minute. Add rose petal jam and give a good stir. 
 3. Again, microwave it for 1 minute. 
 4. Give a proper mix. Grease a small plate with little ghee/butter. Transfer the mixture onto plate. Spread it evenly on the plate pressing with your fingers. You can use roller pin to make it smooth. 
-5. Let it cool down completely. Cut into diamond shape with pizza cutter or knief. 
-
-
+5. Let it cool down completely. Cut into diamond shape with pizza cutter or knief.

@@ -1,8 +1,10 @@
-Permalink: Nutritious ladoo
-Tags: Indian, Dessert
+---
+layout: post
+title: "Nutritious Ladoo"
+tags: [Indian, Dessert]
+---
 
-# Nutritious Ladoo
-![Nutritious Ladoo](http://gallery.srujan.org/photos/i-n88wV85/0/L/i-n88wV85-L.jpg)
+
 
 ### Ingredients:
 * 1 cup whole wheat

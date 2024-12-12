@@ -1,6 +1,9 @@
-Permalink: Shahi Paneer
+---
+layout: post
+title: "Shahi Paneer"
+---
 
-# Shahi Paneer
+
 
 ### Ingredients:
 * 1½ cup paneer cut into small cubes
@@ -26,4 +29,4 @@ Permalink: Shahi Paneer
 3. Turn off the heat and let the mixture cool down. Add the cooled mixture to the grinder and make a smooth paste. Use little water if necessary. 
 4. Heat a tablespoon of oil and add pinch of sugar. Add the paste to the pan and start stiring. Add enough water to make the gravy smooth. Add paneer cubes and let it cook for a while. 
 5. Add fresh cream and stir. Add kasuri methi and turn the heat to simmer. Put the lid on and simmer it for 10 minutes. 
-6. Serve hot with roti or naan. 
+6. Serve hot with roti or naan.

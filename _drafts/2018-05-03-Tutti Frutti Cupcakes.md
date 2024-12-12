@@ -1,6 +1,9 @@
-Permalink: Tutti Frutti Cupcakes
+---
+layout: post
+title: "Tutti Frutti Cupcakes"
+---
 
-# Tutti Frutti Cupcakes
+
 
 # Makes 14-15 regular size cupcakes
 
@@ -24,4 +27,4 @@ Lets have a look at the recipe:
 3. Get another pan and add a teaspoon of flour. Add ⅓ cup tutti fruity in the flour and toss them and blend them in a batter. This will prevent them from sticking at the bottom.
 4. Preheat oven to 350℉. Line cupcake liners in a muffin pan/cupcake pan. Fill the liners with the batter upto ¾. Garnish with remaining tutti frutti on top. 
 5. Bake for 20-22 min or until a tooth pick inserted in the center of cupcakes comes out clean. 
-6. Let them cool down and then serve. 
+6. Let them cool down and then serve.

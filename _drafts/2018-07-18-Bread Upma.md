@@ -1,6 +1,9 @@
-Permalink: Bread Upma
+---
+layout: post
+title: "Bread Upma"
+---
 
-# Bread Upma
+
 
 # Serves: 2 persons
 
@@ -28,4 +31,4 @@ Bread upma is a well known breakfast in India. There are different methods to ma
 for ½ minute. 
 5. Add grinded bread to the pan and mix everything. Cook for a minute by stiring in between. 
 6. Turn off the flame. Keep the lid on the pan and let the upma cook on a steam for a ½ -1 minute. 
-7. Garnish with chopped cilantro. Serve hot. 
+7. Garnish with chopped cilantro. Serve hot.

@@ -1,6 +1,9 @@
-Permalink: Butternut Squash Soup
+---
+layout: post
+title: "Butternut Squash Soup"
+---
 
-# Butternut Squash Soup
+
 
 ### Ingredients:
 * ½ butternut squash peeled
@@ -22,4 +25,3 @@ Permalink: Butternut Squash Soup
 4. Add this puree to the pan and start boiling it. Add a cup of water to make the proper consistency. 
 5. Add  all the powders, salt, and pepper. Let it boil. Turn the heat to low and add the fresh cream. Give a proper stir. Let the soup cook for a minute. 
 6. Serve hot.
-

@@ -1,8 +1,10 @@
-Permalink: Vietnamese Vegetarian Spring Rolls
-Tags: Vietnamese, Appetizer
+---
+layout: post
+title: "Vietnamese Vegetarian Spring Rolls"
+tags: [Vietnamese, Appetizer]
+---
 
-# Vietnamese Vegetarian Spring Rolls
-![Vietnamese Vegetarian Spring Rools](http://gallery.srujan.org/photos/i-V8vfj2C/0/L/i-V8vfj2C-L.jpg)
+
 
 ### Ingredients
 

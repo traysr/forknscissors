@@ -1,6 +1,9 @@
-Permalink: Chettinad Egg Curry
+---
+layout: post
+title: "Chettinad Egg Curry"
+---
 
-# Chettinad Egg Curry
+
 
 # Serves: 4 persons
 
@@ -50,4 +53,4 @@ Let's prepare the dish:
 3. Heat a tablespoon oil in a pan. Add mustard seeds and cumin seeds. Let them splatter. Add asafoetida, curry leaves and stir. Add chopped onions and ginger garlic paste. Stir everything for 2 minutes on low-medium flame. Add chopped tomatoes and mix well. Cook everything for 5 minutes on medium flame. 
 4. Add turmeric powder, red chilli powder and salt. Mix well. Add the ground paste into the pan. Mix everything well. Add 2 cups of water and let the mixture boil for 5-7 minutes. Add chopped cilantro and kasuri methi. Turn the flame on low. 
 5. Add the sauted eggs to the mixture. Stir everything carefully. Put the lid on to the pan and let it simmer for 10 minutes. 
-6. Serve hot with rice or roti. 
+6. Serve hot with rice or roti.

@@ -1,6 +1,9 @@
-Permalink: Kanda bhaji ( Onion Fritters)
+---
+layout: post
+title: "Kanda Bhaji (Onion Fritters)"
+---
 
-# Kanda Bhaji (Onion Fritters)
+
 
 ### Ingredients:
 * 1 medium onion sliced thinly
@@ -17,4 +20,4 @@ Permalink: Kanda bhaji ( Onion Fritters)
 2. Add gram flour and rice flour into the onion mixture and mix it. (Do not add water) 
 3. Heat oil in a pan. Drop small portion of onion mixture and fry till golden brown flipping in between. 
 4. Drain the fritters on a paper. 
-5. Serve hot with tea. 
+5. Serve hot with tea.

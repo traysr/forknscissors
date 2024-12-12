@@ -1,6 +1,9 @@
-Permalink: Jowar Bhakri 
+---
+layout: post
+title: "Jowar Bhakri"
+---
 
-# Jowar Bhakri
+
 
 # Serves: 2-3 persons
 
@@ -22,4 +25,4 @@ Permalink: Jowar Bhakri
 # Note:
 1. Jowar flour that I bought from the grocery shop was not fresh. So I could not make Bhakris in a traditional way. So I added whole wheat flour to it. If you have fresh flour, then do not use whole wheat flour. Just add warm water and salt and knead the dough. 
 Flatten the ball in a circular shape with your palms. 
-2. Keep the thickness of Bhakri according to your choice. 
+2. Keep the thickness of Bhakri according to your choice.

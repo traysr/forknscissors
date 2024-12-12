@@ -1,7 +1,9 @@
+---
+layout: post
+title: "Mango Modak"
+---
 
-Permalink: Mango Modak
 
-# Mango Modak
 
 ### Ingredients:
 
@@ -33,5 +35,3 @@ For the inner filling:
 12 Grease the steamer lightly with ghee. Dip the modaks in water and keep them in a steamer pan. This will prevent them from cracking.
 13. Cover the pan with a lid and steam for 10 to 15 minutes.
 14. Drizzle some ghee on the modak and serve it hot.
-
-

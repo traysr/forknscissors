@@ -1,6 +1,9 @@
-Permalink:Baked Mathri
+---
+layout: post
+title: "Baked Mathri"
+---
 
-# Baked Mathri
+
 
 ### Ingredients:
 * 2 cup whole wheat flour
@@ -18,4 +21,4 @@ Permalink:Baked Mathri
 4. Make the medium size balls out of this dough. 
 5. Get one ball and roll out in a circular shape. Get the cookie cutter and cut the cookies from the rolled circular dough. 
 6. Transfer this small cookies to the baking sheet. Bake for 8 minutes. Then flip the cookies and again bake for 10 minutes. 
-7. Remove from the oven and transfer them to cooling rack. Allow to cool them down completely and then store in a airtight container. 
+7. Remove from the oven and transfer them to cooling rack. Allow to cool them down completely and then store in a airtight container.

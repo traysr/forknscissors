@@ -1,7 +1,10 @@
-Permalink: Rajma Masala
-Tags: Indian, Main Course
+---
+layout: post
+title: "Rajma Masala: "
+tags: [Indian, Main Course]
+---
 
-# Rajma Masala: 
+
 
 ### Ingredients:
 * 1 cup Rajma (_Kidney Beans_)
@@ -27,5 +30,4 @@ Tags: Indian, Main Course
 6. Add rajma along with the water you cooked in, into the masala mixture. Add salt and let it boil and cook for 15 minutes. Check the consistency. Rajma should not be watery but not too thick. 
 7. Add chopped mint leaves and simmer the curry by reducing the heat to low.
 8. Add kasuri methi and stir it. Switch off the flame. 
-9. Serve hot with rice or paratha. 
-
+9. Serve hot with rice or paratha.

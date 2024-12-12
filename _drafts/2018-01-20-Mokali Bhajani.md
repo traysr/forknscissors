@@ -1,6 +1,9 @@
-Permalink: Mokali Bhajani
+---
+layout: post
+title: "Mokali Bhajani"
+---
 
-# Mokali Bhajani
+
 
 _Mokali Bhajani_ is a typical breakfast or snack in Maharashtrian households. _Bhajani_ is  a mixture of different flours roasted individually with Indian spices in it. You can make it at home or it is available in an Indian grocery stores. The most popular recipes from this bhajani flour are _Thalipeeth_ or _Vada_. It tastes amazing with freshly churned butter or homemade yogurt. 
 Mokali bhajani is like _upma_. It tastes as good as any other maharashtrian breakfast or snack recipes. Hope you will enjoy this awesome dish! 
@@ -27,4 +30,4 @@ Mokali bhajani is like _upma_. It tastes as good as any other maharashtrian brea
 2. Heat oil in a pan. Add mustard seeds and cumin seeds. When they start crackling, add asafoetida, turmeric, curry leaves, and red chilli powder. Mix and add chopped onion. 
 3. Fry onion for a while and add bhajani mixture. Mix with spatula and keep the lid on. Let it cook for around 20 minutes. Stir after each 5 minutes. 
 4. Turn off the heat. Let it be there with lid on. The steam will make bhajani more delicious. 
-5. Serve hot with chopped cilantro and fresh grated coconut on top.  
+5. Serve hot with chopped cilantro and fresh grated coconut on top.

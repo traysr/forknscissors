@@ -1,6 +1,9 @@
-Permalink: Sabudana Kheer or Tapioca Pudding
+---
+layout: post
+title: "Sabudana Kheer or Tapioca Pudding"
+---
 
-# Sabudana Kheer or Tapioca Pudding
+
 
 # Serves: 2-3 persons
 
@@ -18,4 +21,4 @@ Permalink: Sabudana Kheer or Tapioca Pudding
 2. Get a pan and add 1 cup milk. Start boiling the milk. As it starts boiling, add sabudana. Keep stiring all the time on a low-medium flame. Make sure the milk is not sticking to the pan. 
 3. Add sugar and rest of the milk to the pan. Cook sabudana till it looks transperent. If it floats, then the kheer is ready. Add more milk if you need it or you need the thinner consistency. 
 4. Add saffron and slivered almonds to the kheer. 
-5. Serve hot or chilled. 
+5. Serve hot or chilled.

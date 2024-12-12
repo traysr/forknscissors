@@ -1,6 +1,9 @@
-Permalink: Avocado Paratha and Yogurt-Cilantro Dip
+---
+layout: post
+title: "Avocado Paratha and Yogurt-Cilantro Dip"
+---
 
-# Avocado Paratha and Yogurt-Cilantro Dip
+
 
 # Makes 10 
 
@@ -32,7 +35,4 @@ Permalink: Avocado Paratha and Yogurt-Cilantro Dip
 
 ### For Dip:
 1. In a blender, add cilantro, mint, salt, green chillies, and ginger. Make a fine paste. Add a teaspoon water if needed. 
-2. Pour the mixture into a bowl. Whisk yogurt with a spoon. Add yogurt to the cilantro paste. Check the salt and if needed, add more. 
-
-
-
+2. Pour the mixture into a bowl. Whisk yogurt with a spoon. Add yogurt to the cilantro paste. Check the salt and if needed, add more.

@@ -1,6 +1,9 @@
-Permalink: Indian Club Sandwich
+---
+layout: post
+title: "Indian Club Sandwich"
+---
 
-# Indian Club Sandwich
+
 
 ### Ingredients:
 
@@ -39,4 +42,4 @@ Permalink: Indian Club Sandwich
 ### How to assemble:
 1. Place the bread slice with vegetables at the bottom. Place bread slice with tomato omelette on it facing upword. Place third slice with butter and chutney on it facing downwords. 
 2. Cut into small triangles. 
-3. Serve immediately with ketchup and chips. 
+3. Serve immediately with ketchup and chips.

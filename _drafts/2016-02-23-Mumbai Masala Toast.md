@@ -1,6 +1,9 @@
-Permalink: Mumbai Masala Toast
+---
+layout: post
+title: "Mumbai Masala Toast"
+---
 
-# Mumbai Masala Toast
+
 
 ### Ingredients:
 ### For the masala:
@@ -38,6 +41,4 @@ Permalink: Mumbai Masala Toast
 3. Add grated cheese generously. Sprinkle some sandwich masala. Place the other slice of bread on top facing butter side down. 
 4. Place the bread in the sandwich maker and toast it. 
 5. You can make sandwich toast on tava/griddle. Apply some butter on tava and put the sandwich on it. Gently press down with the spatula. toast from both the sides by flipping to another side. 
-6. Serve hot with ketchup. 
-
-
+6. Serve hot with ketchup.

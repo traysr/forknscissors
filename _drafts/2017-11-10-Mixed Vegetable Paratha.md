@@ -1,6 +1,9 @@
-Permalink: Mixed Vegetable Paratha
+---
+layout: post
+title: "Mixed Vegetable Paratha"
+---
+
  
-# Mixed Vegetable Paratha
 
 ### Ingredients:
 
@@ -32,4 +35,4 @@ Permalink: Mixed Vegetable Paratha
 6. Flatten this ball with your hands and dip into the flour. Roll out in a circle using the rolling pin. 
 7. Heat the tava/griddle. Place the rolled paratha and brush the sides and the center with some oil or butter. Cook from both the sides by flipping the other side. 
 8. Repeat the same procedure with remaining stuffing and the dough. 
-9. Serve hot with ketchup or yogurt or pickle. 
+9. Serve hot with ketchup or yogurt or pickle.

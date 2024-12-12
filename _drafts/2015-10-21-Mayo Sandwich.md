@@ -1,6 +1,9 @@
-Permalink: Mayo Sandwich
+---
+layout: post
+title: "Mayo Sandwich"
+---
 
-# Mayo Sandwich
+
 
 ### Ingredients: 
 * 12 Bread slices

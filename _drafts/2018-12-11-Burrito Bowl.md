@@ -1,6 +1,9 @@
-Permalink: Burrito Bowl
+---
+layout: post
+title: "Burrito Bowl"
+---
 
-# Burrito Bowl
+
 
 ### Ingredients:
 
@@ -35,4 +38,4 @@ Permalink: Burrito Bowl
 3. Mash the avocados in a bowl. Add all the ingredients for guacamole. Mix it properly and cover it. Keep it in a refrigarator. 
 4. Add a teaspoon of oil in a pan. Add drained black beans. Saute for a while. Add a teaspoon of oregano and minced garlic. 
 5. Get a bowl. Spread rice at the bottom. Add black beans, all the vegetables: tomato salsa, guacamole, and finaly chopped lettuce. 
-7. Top with shredded cheese. You can add sour cream or sriracha sauce. 
+7. Top with shredded cheese. You can add sour cream or sriracha sauce.

@@ -1,6 +1,9 @@
-Permalink: Tomato rice
+---
+layout: post
+title: "Tomato Rice"
+---
 
-# Tomato Rice
+
 
 # Serves:3-4 persons
 
@@ -29,4 +32,4 @@ Permalink: Tomato rice
 3. Add another tablespoon oil in a same pan. Add cumin seeds, bay leaf, cloves,and cinnamon. Stir well. Add turmeric,chopped onion, and green chillies( if using). Mix well.
 4. Add grated ginger and green peas. Saute for a minute. Add chopped tomatoes. Mix everything and cook for another 5 minutes on low-medium flame. 
 5. Add cooked rice to the pan and mix all together and cook for another 1 minute on a low flame. 
-6. Garnish with chopped cilantro and fried cashews on top. Serve hot with yogurt or raita. 
+6. Garnish with chopped cilantro and fried cashews on top. Serve hot with yogurt or raita.

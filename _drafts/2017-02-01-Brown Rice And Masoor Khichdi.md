@@ -1,6 +1,9 @@
-Permalink: Brown Rice And Masoor Khichdi
+---
+layout: post
+title: "Brown Rice And Masoor Khichdi"
+---
 
-# Brown Rice And Masoor Khichdi
+
 
 # Serves 2 persons
 
@@ -34,4 +37,4 @@ Permalink: Brown Rice And Masoor Khichdi
 
 # Note:
 1. I like khichdi to be soft. So, I added 2 cups of water. You can add according to your preference. 
-2. Since brown rice takes longer time to cook, I cook this khichdi in a pressure cooker. You can cook it in a pan on stove top. 
+2. Since brown rice takes longer time to cook, I cook this khichdi in a pressure cooker. You can cook it in a pan on stove top.

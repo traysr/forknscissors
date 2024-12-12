@@ -1,6 +1,9 @@
-Permalink: Mango Mastani
+---
+layout: post
+title: "Mango Mastani"
+---
 
-# Mango Mastani
+
 
 ### Ingredients: 
 * 2 cups mango pulp
@@ -11,4 +14,4 @@ Permalink: Mango Mastani
 #### Method:
 1. Add milk, mango pulp and sugar in a blender jar. Blend until smooth and creamy. 
 2. Pour the milkshake in a glass. Add 2 scoopes of mango ice cream on top. 
-3. Serve chilled. 
+3. Serve chilled.

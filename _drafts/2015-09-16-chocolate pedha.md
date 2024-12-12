@@ -1,7 +1,10 @@
-Permalink: Chocolate Pedha 
-Tags: Indian 
+---
+layout: post
+title: "Chocolate Pedha (Chocolate & milk powder sweet)"
+tags: [Indian]
+---
 
-# Chocolate Pedha (Chocolate & milk powder sweet)
+
 
 ### Ingredients:
 * 2¼ cup Milk powder
@@ -20,4 +23,4 @@ Tags: Indian
 7. Roll into round shape. Garnish with 'Milk Masala'
 
 Note:
-* Each microwave is different. It may take more or less time to cook. 
+* Each microwave is different. It may take more or less time to cook.

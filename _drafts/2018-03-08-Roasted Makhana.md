@@ -1,6 +1,9 @@
-Permalink: Roasted Makhana
+---
+layout: post
+title: "Roasted Makhana"
+---
 
-# Roasted Makhana
+
 
 # Serves: 2 cups
 
@@ -17,4 +20,4 @@ Permalink: Roasted Makhana
 ### Method:
 1. Heat oil in a pan and 2 cups of makhana. Roast them until they are crispy. This process takes 12-15 minutes on low-medium heat. 
 2. Add red chilli powder, turmeric powder, salt, and chaat masala to the roasted makhana. 
-3. Roast for a minute and turn off the heat. You can serve immediately or cool down and then eat. Store in a airtight container after you cool them down. 
+3. Roast for a minute and turn off the heat. You can serve immediately or cool down and then eat. Store in a airtight container after you cool them down.

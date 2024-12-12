@@ -1,6 +1,9 @@
-Permalink: Fruit cake
+---
+layout: post
+title: "Fruit Cake"
+---
 
-# Fruit Cake
+
 
 ### Ingredients:
 * 1¼ cup all purpose flour
@@ -38,4 +41,4 @@ Permalink: Fruit cake
 ### Notes:
 1. The baking time is different for everybody depending upon the oven and baking pan size. 
 2. The fruit mix and nuts should get soaked properly. You can increase the amount of rum or apple juice accordingly. 
-3. Be careful while adding water to the melted sugar. It may splash and cause burning. 
+3. Be careful while adding water to the melted sugar. It may splash and cause burning.

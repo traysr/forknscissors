@@ -1,6 +1,9 @@
-Permalink: Spinach paratha (_Palak Paratha_)
+---
+layout: post
+title: "Spinach paratha (_Palak Paratha_)"
+---
 
-# Spinach paratha (_Palak Paratha_)
+
 
 ### Ingredients:
 * 2 cups whole wheat flour + 1 cup flour for dusting
@@ -18,4 +21,4 @@ Permalink: Spinach paratha (_Palak Paratha_)
 2. Add whole wheat flour to the spinach mixture. Make dough by adding little water at a time. Rest this dough for 15-20 minutes. 
 3. After 20 minutes, knead the dough again and divide into 15 balls equally. flatten the ball and dip into the flour. Roll the parathas into a circle.
 4. Heat griddle/tava. Place a rolled paratha on it. Brush little oil and cook from both the sides by flipping to other side. 
-5. Serve hot with ketchup or yogurt. 
+5. Serve hot with ketchup or yogurt.

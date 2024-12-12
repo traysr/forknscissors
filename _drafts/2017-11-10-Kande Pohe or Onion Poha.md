@@ -1,6 +1,9 @@
-Permalink: Kande Pohe or Onion Poha
+---
+layout: post
+title: "Kande Pohe or Onion Poha"
+---
 
-# Kande Pohe or Onion Poha
+
 
 # Serves: 2-3 persons
 
@@ -25,4 +28,4 @@ Permalink: Kande Pohe or Onion Poha
 3. Add chopped onion and mix everything. Add sugar, salt, and lemon juice and stir well. 
 4. As the onion gets translucent, add rinsed pohe. Keep the flame low. Mix everything nicely.
 5. Cover the pan with a lid and cook the pohe for 4-5 minutes. The pohe should get nice steam. 
-6. Serve Pohe immediately. Garnish with chopped cilantro and fresh grated coconut. 
+6. Serve Pohe immediately. Garnish with chopped cilantro and fresh grated coconut.

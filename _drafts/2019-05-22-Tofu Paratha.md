@@ -1,6 +1,9 @@
-Permalink: Tofu Paratha
+---
+layout: post
+title: "Tofu Paratha"
+---
 
-# Tofu Paratha
+
 
 # Makes around 5-6 parathas
 
@@ -29,4 +32,4 @@ Permalink: Tofu Paratha
 3. Get one lemon size flour ball and roll out in a small disk using roiiling pin. Make a lemon size ball from the tofu stuffing and place it in the center of rolled flour ball. Gather the edges and seal them together. 
 6. Flatten this ball with your hands and dip into the flour. Roll out in a big circle using the rolling pin. 
 7. Heat the tava/griddle. Place the rolled paratha and brush the sides and the center with some oil or ghee. Cook from both the sides by flipping the other side. 
-8. Serve hot with ketchup or yogurt. 
+8. Serve hot with ketchup or yogurt.

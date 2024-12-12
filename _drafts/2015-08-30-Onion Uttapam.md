@@ -1,9 +1,11 @@
-Permalink: OnionUttapam
-Tags: Indian, Breakfast
+---
+layout: post
+title: "Easy Onion Uttapam"
+tags: [Indian, Breakfast]
+---
+
 Thumbnail: http://gallery.srujan.org/photos/i-2Mc4pgL/1/L/i-2Mc4pgL-Th.jpg
 
-# Easy Onion Uttapam
-![Onion Uttapam](http://gallery.srujan.org/photos/i-2Mc4pgL/1/L/i-2Mc4pgL-L.jpg)
 
 ### Ingredients:
 * 1 cup urad dal  

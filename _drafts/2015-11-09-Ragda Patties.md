@@ -1,6 +1,9 @@
-Permalink: Ragda Patties
+---
+layout: post
+title: "Ragda Patties"
+---
 
-# Ragda Patties
+
 
 ### Ingredients:
 
@@ -43,4 +46,4 @@ Permalink: Ragda Patties
 5. Mash the boiled potatoes. Add turmeric powder, red chili powder, leamon juice, and salt. 
 6. chopped the bread slices and add them to a grinder. Make a fine powder. Add this bread crumbs to the potato mixture and knead to a soft dough. Divide the dough into 10-11 round shaped balls.  Flatten these balls between your palms. 
 7. Heat a flat tava or griddle. Place these flatten pattis on a pan. Brush them with little oil. Cook from both side by flipping the other side. 
-8. Get a plate. place 2-3 pattis. Add enough ragda all over the pattis. Add a teaspoon of green and sweet chutney all over. Sprinkle chopped onion and tomatoes. Finaly, Add nylon sev and sprinkle chhat masala . 
+8. Get a plate. place 2-3 pattis. Add enough ragda all over the pattis. Add a teaspoon of green and sweet chutney all over. Sprinkle chopped onion and tomatoes. Finaly, Add nylon sev and sprinkle chhat masala .

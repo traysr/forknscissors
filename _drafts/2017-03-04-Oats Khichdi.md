@@ -1,6 +1,9 @@
-Permalink: Oats Khichdi
+---
+layout: post
+title: "Oats Khichdi"
+---
 
-# Oats Khichdi
+
 
 ### Ingredients:
 * ½ cup oats
@@ -24,4 +27,4 @@ Permalink: Oats Khichdi
 3. Add chopped vegetables, turmeric powder,sugar and red chilli powder. Add oats and moong dal. Mix everything. 
 4. Boil 3 cups of water in a seperate bowl. Add the boiling water to the pressure cooker. Put the lid on and cook khichdi upto 4-5 whistles. Turn off the flame and wait until the pressure is down. 
 5. Open the lid and stir the khichadi. Garnish with chopped cilantro. 
-6. Serve immediately with kadhi or yogurt. 
+6. Serve immediately with kadhi or yogurt.

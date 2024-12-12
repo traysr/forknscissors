@@ -1,6 +1,9 @@
-Permalink: Tomato pasta with white white sauce
+---
+layout: post
+title: "Tomato pasta with white sauce"
+---
 
-# Tomato pasta with white sauce
+
 
 ### Ingredients:
 * 2 cups cooked pasta

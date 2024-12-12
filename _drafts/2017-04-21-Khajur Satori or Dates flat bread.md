@@ -1,6 +1,9 @@
-Permalink: Khajur Satori or Dates flat bread
+---
+layout: post
+title: "Khajur Satori or Dates flat bread"
+---
 
-# Khajur Satori or Dates flat bread
+
 
 # Makes 6-7 flat breads
 
@@ -28,4 +31,4 @@ Permalink: Khajur Satori or Dates flat bread
 6. Get one flour ball and roll out in a small disk using rolling pin. Get a dates stuffing ball and place it in the center of rolled flour ball. Gather the edges and seal them together. 
 7. Flatten this ball with your hands and roll out in a small circle using very little flour for dusting. The _Satori_ should not be thin. 
 8. Heat tava/griddle and place this rolled flat bread and brush the sides and the center with some ghee/butter. Cook from both the sides by flipping the other side. 
-9. Serve hot or cold with ghee/butter. You can store these for a week in a airtight container. 
+9. Serve hot or cold with ghee/butter. You can store these for a week in a airtight container.

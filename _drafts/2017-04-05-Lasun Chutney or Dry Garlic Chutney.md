@@ -1,6 +1,9 @@
-Permalink: Lasun Chutney or Dry Garlic Chutney
+---
+layout: post
+title: "Lasun Chutney or Dry Garlic Chutney"
+---
 
-# Lasun Chutney or Dry Garlic Chutney
+
 
 ### Ingredients: 
 * 10 big size garlic cloves
@@ -14,5 +17,4 @@ Permalink: Lasun Chutney or Dry Garlic Chutney
 1. Roughly chop the garlic cloves and add it to the blender. Add pinch of salt and grind it to make a paste. Keep it aside. 
 2. Dry roast coconut in a pan. Make sure the flame is low-medium to avoid burning. Roast until the raw smell goes away. 
 3. Add roasted coconut, peanut powder, salt, red chilli powder, and amchoor powder to the garlic paste. Grind it to a coarse powder. 
-4. Keep it in a airtight container. 
-
+4. Keep it in a airtight container.

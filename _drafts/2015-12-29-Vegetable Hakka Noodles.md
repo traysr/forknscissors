@@ -1,6 +1,9 @@
-Permalink: Vegetable Hakka Noodles
+---
+layout: post
+title: "Vegetable Hakka Noodles"
+---
 
-# Vegetable Hakka Noodles
+
 
 ### Ingredients:
 * 1 packet of Ching's veg hakka noodles
@@ -24,4 +27,4 @@ Permalink: Vegetable Hakka Noodles
 ### Note:
 1. You can add ¼ cup of sliced green beans to the noodles.
 2. Add a tablespoon of vinegar to the noodles. 
-3. Adjust spice level accordingly.  
+3. Adjust spice level accordingly.

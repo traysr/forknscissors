@@ -1,6 +1,9 @@
-Permalink: Plain Dosa
+---
+layout: post
+title: "Plain Dosa"
+---
 
-# Plain Dosa
+
 
 ### Ingredients: 
 * 4 cups Rice
@@ -16,4 +19,4 @@ Permalink: Plain Dosa
 4. Next day, add salt to the batter and mix well with the laddle. Heat tava/griddle. Sprinkle some water on it and clean it with paper or towel. 
 5. Get a laddle full of batter and pour onto tava/griddle. Spread the batter into circular motion with the help of a laddle. drizzle some oil along the side and top of the dosa. 
 6. Let it cook for few minutes and then flip it to another side. 
-7. Fold it and serve it hot with Coconut Chutney. 
+7. Fold it and serve it hot with Coconut Chutney.

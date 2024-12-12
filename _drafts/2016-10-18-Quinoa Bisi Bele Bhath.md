@@ -1,6 +1,9 @@
-Permalink: Quinoa Bisi Bele Bhath
+---
+layout: post
+title: "Quinoa Bisi Bele Bhath"
+---
 
-# Quinoa Bisi Bele Bhath
+
 # Serving: 2 persons
 
 # Ingredients:
@@ -28,7 +31,4 @@ Permalink: Quinoa Bisi Bele Bhath
 3. Add chopped onion and saute until the onion gets cooked. Add cooked toor dal and mix everything. 
 4. Add vegetables along with its water. Add tamarind paste, jaggary, bisi bele bhath masala, salt, and red chili powder. Mix everything.
 5. Add cooked quinoa to the pan and stir well. Let it cook for a while. Check the water consistency and add little if needed. Also, check the taste and add little masala and red chili powder if you want more spicy. 
-6.  Finally, add chopped cilantro and serve hot. 
-
-
-
+6.  Finally, add chopped cilantro and serve hot.

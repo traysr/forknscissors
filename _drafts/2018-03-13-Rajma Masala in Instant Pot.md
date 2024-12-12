@@ -1,6 +1,9 @@
-Permalink: Rajma Masala in Instant Pot 
+---
+layout: post
+title: "Rajma Masala in Instant Pot "
+---
 
-# Rajma Masala in Instant Pot 
+
 
 # Serves: 4 persons
 

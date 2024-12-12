@@ -1,5 +1,8 @@
-Permalink: Papdi chaat 
-# Papdi chaat
+---
+layout: post
+title: "Papdi chaat"
+---
+
 
 ### Ingredients:
 * Papdi 
@@ -14,4 +17,4 @@ Permalink: Papdi chaat
 ### Method:
 1. Mashed the boiled potato and add salt. 
 2. Arrange papdis in a plate. Add a tablespoon of potato mixture on each papdi. Top it with teaspoon of chopped onion, sweet chutney, and green chutney.
-3. Add sev on each papdi. Sprinkle chat masala over the plate and serve immediately. 
+3. Add sev on each papdi. Sprinkle chat masala over the plate and serve immediately.

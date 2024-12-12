@@ -1,6 +1,9 @@
-Permalink: Shenganchi Aamti
+---
+layout: post
+title: "Shenganchi Aamti"
+---
 
-# Shenganchi Aamti
+
 
 # Serves: 2 persons
 
@@ -30,5 +33,4 @@ The following recipe is a very common recipe which you will find in a _Maharasht
 3. Add 1 cup of water. Add salt, jaggery, tamarind paste, and chopped cilantro into the water. Let the water boil. 
 4. In a small plate add cumin seeds and grated coconut. Crush it roughly with your fingers. Add this to boiling water. 
 5. Add cooked dal and stir everything. Let the dal boil on medium heat. Check the consistency. If you want your dal to be runny, add more water accordingly. 
-6. Add 1 teaspoon of ghee or butter to the dal. Turn off the flame. Serve hot with rice or roti. 
-
+6. Add 1 teaspoon of ghee or butter to the dal. Turn off the flame. Serve hot with rice or roti.

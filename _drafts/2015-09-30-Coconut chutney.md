@@ -1,7 +1,10 @@
-Permalink: Coconut Chutney
-Tags: Indian
+---
+layout: post
+title: "Coconut Chutney"
+tags: [Indian]
+---
 
-# Coconut Chutney
+
 
 ### Ingredients: 
 ### To grind: 
@@ -24,6 +27,4 @@ Tags: Indian
 ### Method:
 1. Grind everything with the ingredients to grind with adding little water at a time. Make a smooth paste. 
 2. Heat a pan and add a teaspoon of oil. Add musterd seeds and urad dal. When they start sizzling, add asafoetida, red chillies, curry leaves.
-3. Add this seasoning on the top of the chutney. Stir gently to mix it. 
-
-
+3. Add this seasoning on the top of the chutney. Stir gently to mix it.

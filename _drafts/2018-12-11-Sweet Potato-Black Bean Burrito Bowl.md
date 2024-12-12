@@ -1,6 +1,9 @@
-Permalink: Sweet Potato-Black Bean Burrito Bowl
+---
+layout: post
+title: "Sweet Potato-Black Bean Burrito Bowl"
+---
 
-# Sweet Potato-Black Bean Burrito Bowl
+
 
 ### Serves: 2
 
@@ -49,4 +52,4 @@ Permalink: Sweet Potato-Black Bean Burrito Bowl
 2. Add all the cooked vegetables and sweet potatoes.
 3. Add chopped tomatoes, corn and lettuce.
 4. Top with guacamole. 
-5. Mix well everything and enjoy! 
+5. Mix well everything and enjoy!

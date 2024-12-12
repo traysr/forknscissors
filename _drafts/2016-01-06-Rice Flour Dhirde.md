@@ -1,6 +1,9 @@
-Permalink: Rice Flour Dhirde
+---
+layout: post
+title: "Rice flour Dhirde"
+---
 
-# Rice flour Dhirde
+
 
 ### Ingredients:
 * 1 cup rice flour
@@ -17,4 +20,4 @@ Permalink: Rice Flour Dhirde
 ### Note:
 1. I used canned coconut milk. Since it was too thick, I have to add 2 cups of water. If the coconut milk is thin, adjust the water accordingly. The consistency should be thin. 
 2. Instead of water, you can use only coconut milk.
-3. You can add 1 teaspoon of cummin seeds to the batter.   
+3. You can add 1 teaspoon of cummin seeds to the batter.

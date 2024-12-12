@@ -1,6 +1,9 @@
-Permalink: Rajma Chawal Bowl
+---
+layout: post
+title: "Rajma Chawal Bowl"
+---
 
-# Rajma Chawal Bowl
+
 
 ### Ingredients: 
 * Rajma Masala
@@ -15,4 +18,4 @@ Permalink: Rajma Chawal Bowl
 1. Wash and drain brown rice couple of times. Add two cup water to the brown rice and cook in a rice cooker. 
 2. Prepare Rajma Masala.
 3. In a bowl, Add rice and rajma. Garnish with onion slices, lemon wedge and chopped cilantro. Sprinkle salt and pepper on top. 
-4. Serve immediately. 
+4. Serve immediately.

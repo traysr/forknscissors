@@ -1,6 +1,9 @@
-Permalink: Tofu Pad thai Noodles
+---
+layout: post
+title: "Tofu Pad Thai Noodles"
+---
 
-# Tofu Pad Thai Noodles
+
 
 # Serves: around 4 persons
 
@@ -35,4 +38,4 @@ Permalink: Tofu Pad thai Noodles
 4. I like to add protein to my noodles. So, I use tofu or eggs. Sometimes both. You can avoid this too and add only vegetables. The tofu packet I used was 14oz.
 5. Pad thai sauce has tamarind sauce, water, soy sauce, brown sugar, chilli sauce, salt, and pepper.
 6. Usually, for cooking noodles, I use a large pan and add water and salt in it. Start boiling and add noodles. Cook for 5-7 minutes. Make sure they are not overcooked. 
-Drain and set aside. Drizzle some oil to avoid stickyness. 
+Drain and set aside. Drizzle some oil to avoid stickyness.

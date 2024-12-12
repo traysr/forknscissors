@@ -1,9 +1,11 @@
-Permalink: Masala Khichadi
-Tags: Indian, Main Course
+---
+layout: post
+title: "Masala khichadi:"
+tags: [Indian, Main Course]
+---
+
 Thumbnail: http://gallery.srujan.org/photos/i-R7zWnzH/0/S/i-R7zWnzH-Th.jpg
 
-# Masala khichadi:
-![Masala Khichadi](http://gallery.srujan.org/photos/i-R7zWnzH/0/L/i-R7zWnzH-L.jpg)
 
 ### Ingredients:
 * 1 cup Rice
@@ -40,4 +42,4 @@ Thumbnail: http://gallery.srujan.org/photos/i-R7zWnzH/0/S/i-R7zWnzH-Th.jpg
 5. Add drained rice and sauté for 1 minute.
 6. Add cumin powder, coriander powder, red chilli powder, jaggery, yogurt and salt.
 7. Add boiling water to it and pressure cook for 2 whistles. Open the lid add ghee and again cover it for few more mins. 
-8. Transfer masala khichdi to a serving bowl and serve it with raita and papad. 
+8. Transfer masala khichdi to a serving bowl and serve it with raita and papad.

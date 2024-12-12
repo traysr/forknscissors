@@ -1,6 +1,9 @@
-Permalink: Indian Thalis
+---
+layout: post
+title: "Indian Thalis"
+---
 
-# Indian Thalis
+
 Indian cuisine is diverse. It's a combination of extra spicy to extra sweet flavours according to the region where you live. The food preparation changes from state to state and season to season. Each region has its own spices, its preparation method, and its own identity. Indian food is known for its culinary and cultural presentation. 
 
 Indian thali refers to a full course meal typically served on a plate and bowls. Curry, roti, rice, raita, papad, pickle, and a dessert are the main ingredients of a thali. You can divide thali in the following types:

@@ -1,5 +1,8 @@
-Permalink: Masale Bhat
-# Masale Bhat
+---
+layout: post
+title: "Masale Bhat"
+---
+
 
 ### Ingredients:
 * 1 cup basmati rice
@@ -28,4 +31,4 @@ Permalink: Masale Bhat
 5. Add masale bhat powder, sugar,and salt to the rice. Add beaten yogurt and stir everything together. 
 6. Add hot/boiling water to the rice. Put the lid on a pan and let the rice cook properly. Check in between to make sure the rice is not sticking to the pan. 
 7. When the rice is cooked switch off the flame. Add ghee/butter to the rice and put the lid on. 
-8. Garnish with cilantro and coconut. 
+8. Garnish with cilantro and coconut.

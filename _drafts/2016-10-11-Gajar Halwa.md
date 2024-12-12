@@ -1,6 +1,9 @@
-Permalink: Gajar Halwa
+---
+layout: post
+title: "Gajar Halwa"
+---
 
-# Gajar Halwa
+
 # Serving: 2 
 
 ### Ingredients: 
@@ -17,4 +20,4 @@ Permalink: Gajar Halwa
 2. Get 2 cups of warm milk and add it to the carrots. Saute continuously for 15 minutes or until the milk is absorbed and carrots are cooked.
 3. Add 1 cup of sugar and almonds and mix well. Add 1 tablespoon of butter and cook for another 15-20 minutes or the mix until the mixture becomes thick. Mix ¼ teaspoon of cardamom powder and give a quick stir. 
 4. Turn off the flame and transfer the halwa into a serving bowl. Garnish with chopped almonds. 
-5. Serve hot or cold. 
+5. Serve hot or cold.

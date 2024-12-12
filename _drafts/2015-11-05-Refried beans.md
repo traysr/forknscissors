@@ -1,6 +1,9 @@
-Permalink: Refried beans 
+---
+layout: post
+title: "Refried Beans"
+---
 
-# Refried Beans
+
 
 ### Ingredients:
 * 1 cup dry pinto beans
@@ -21,4 +24,4 @@ Permalink: Refried beans
 6. Add water if the mixture is getting dry. Once they are cool, they will thicken. 
 7. Turn off the heat when mixture is well mixed. Let the mixture cool down little bit. 
 8. Transfer the cooled mixture to the grinder and make a fine paste.
-9. Pour the paste into a serving bowl and garnish with cheese. 
+9. Pour the paste into a serving bowl and garnish with cheese.

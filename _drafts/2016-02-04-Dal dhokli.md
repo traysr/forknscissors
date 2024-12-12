@@ -1,6 +1,9 @@
-Permalink: Dal dhokli
+---
+layout: post
+title: "Dal dhokli"
+---
 
-# Dal dhokli
+
 
 ### Ingredients:
 ### For the dhoklis:
@@ -44,4 +47,3 @@ Permalink: Dal dhokli
 5. Add water to make dal of very thin consistency. Once it starts boiling add the dhoklis one by one.
 6. Mix well and cook on a medium flame for aound 5 minutes, stirring occasionally.
 7. Dal dhokli is ready! Serve immediately with ghee and onion.
-

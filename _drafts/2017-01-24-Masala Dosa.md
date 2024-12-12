@@ -1,6 +1,9 @@
-Permalink: Masala Dosa
+---
+layout: post
+title: "Masala Dosa"
+---
 
-# Masala Dosa
+
 
 
 ### Ingredients:

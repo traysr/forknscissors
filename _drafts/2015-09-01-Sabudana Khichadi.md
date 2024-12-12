@@ -1,8 +1,10 @@
-Permalink: Sabudana Khichadi
-Tags: Indian, Breakfast
+---
+layout: post
+title: "Sabudana Khichadi"
+tags: [Indian, Breakfast]
+---
 
-# Sabudana Khichadi
-![Sabudana Khichadi](http://gallery.srujan.org/photos/i-zVrtJMt/0/L/i-zVrtJMt-L.jpg)
+
 
 ### Ingredients: 
 * 1 cup Sabudana (_Sago_)
@@ -22,5 +24,4 @@ Tags: Indian, Breakfast
 4. Sabudana is now ready. Add peanut powder, salt and sugar to it. Mix it properly and keep this mixture aside. 
 5. Heat oil plus butter/ghee in a non-stick pan. Add cummin seeds. let it sizzle. The seeds will change the color to brown. Add green chilies. 
 6. Stir the cumin seeds and chilies, and add Sabudana mixture to the pan. Cook on a low heat stirring continiously for about 8-10 minutes. 
-7. Garnish with Cilantro and grated coconut. Serve hot with yogurt. 
-
+7. Garnish with Cilantro and grated coconut. Serve hot with yogurt.

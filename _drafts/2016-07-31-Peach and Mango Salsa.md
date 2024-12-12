@@ -1,6 +1,9 @@
-Permalink: Peach and Mango Salsa
+---
+layout: post
+title: "Peach and Mango Salsa"
+---
 
-# Peach and Mango Salsa
+
 
 ### Ingredients:
 
@@ -15,5 +18,4 @@ Permalink: Peach and Mango Salsa
 
 ### Method:
 1. Mix all the ingredients properly and keep it in a refrigerator for a hour. 
-2. Serve with your favorite chips. 
-
+2. Serve with your favorite chips.

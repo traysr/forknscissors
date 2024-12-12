@@ -1,6 +1,9 @@
-Permalink: Palakchi Patal Bhaji or Spinach-Yogurt Curry 
+---
+layout: post
+title: "Palakchi Patal Bhaji or Spinach-Yogurt Curry "
+---
 
-# Palakchi Patal Bhaji or Spinach-Yogurt Curry 
+
 
 ### Palak chi patal bhaji is a Maharashtrian name for spinach-yogurt curry. This nutritious dish is perfect for gloomy winter nights. It goes perfect with bhakri or roti or rice. 
 
