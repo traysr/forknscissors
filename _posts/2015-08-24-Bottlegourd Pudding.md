@@ -1,9 +1,11 @@
-Permalink: BottleGourdPudding
-Tags: Indian, Dessert
-Thumbnail: http://gallery.srujan.org/photos/i-DjB6dsG/0/L/i-DjB6dsG-Th.jpg
-
+---
+layout: post
+title:  "Bottle gourd Pudding"
+categories: Desserts
+permalink: /recipes/bottlegourdpudding
+---
 # Bottle gourd Pudding
-![Bottle gourd Pudding](http://gallery.srujan.org/photos/i-DjB6dsG/0/L/i-DjB6dsG-L.jpg)
+![Bottle gourd Pudding]({{ site.baseurl }}/assets/images/bottlegourd-pudding-banner.jpg)
 
 
 _a.k.a. Lauki ka Halwa, Doodhi Halwa_
