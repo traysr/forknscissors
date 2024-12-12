@@ -2,7 +2,7 @@
 layout: post
 title: "Stuffed Cabbage Paratha"
 categories: Breakfast, Parathas, Flatbreads
-permalink: /recipes/
+permalink: /recipes/cabbageparatha
 ---
 ### Ingredients:
 
