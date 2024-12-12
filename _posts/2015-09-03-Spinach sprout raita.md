@@ -3,9 +3,6 @@ layout: post
 title: "Spinach sprout raita"
 tags: [Indian, Salad]
 ---
-
-
-
 ### Ingredients:
 * 1 cup chopped spinach
 * ½ cup boiled sprouts (any type)

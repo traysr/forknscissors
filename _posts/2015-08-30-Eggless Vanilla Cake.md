@@ -3,9 +3,6 @@ layout: post
 title: "Eggless Vanilla Cake"
 tags: [Dessert]
 ---
-
-
-
 ### Ingredients:
 * 2 cups All purpose flour
 * ⅓ cup unsalted butter

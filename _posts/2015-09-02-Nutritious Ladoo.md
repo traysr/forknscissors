@@ -3,9 +3,6 @@ layout: post
 title: "Nutritious Ladoo"
 tags: [Indian, Dessert]
 ---
-
-
-
 ### Ingredients:
 * 1 cup whole wheat
 * ¼ cup ragi (_Finger millet_)

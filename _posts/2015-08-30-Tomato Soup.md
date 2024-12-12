@@ -3,10 +3,6 @@ layout: post
 title: "Tasty Tomato Soup:"
 tags: [Indian, Appetizer]
 ---
-
-Thumbnail: http://gallery.srujan.org/photos/i-xqZGNF8/0/S/i-xqZGNF8-Th.jpg
-
-
 ### Ingredients:
 * 5 large tomatoes roughly chopped
 * 1 large onion roughly chopped

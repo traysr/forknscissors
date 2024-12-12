@@ -3,9 +3,6 @@ layout: post
 title: "Vegetable Frankie :"
 tags: [Indian, Appetizer]
 ---
-
-
-
 ### Ingredients: 
 * ½ cup all purpose flour
 * 1 cup whole wheat flour

@@ -3,10 +3,7 @@ layout: post
 title: "Lachha Paratha : "
 tags: [Indian, Breakfast, Breads]
 ---
-
-
- 
- ### Ingredients:
+### Ingredients:
  * 2 cups whole wheat flour + 1 cup of flour for dusting
  * 2 tablespoon of oil + ¼ cup of oil for the layers
  * water to knead the dough

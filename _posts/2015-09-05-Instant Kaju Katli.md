@@ -3,12 +3,6 @@ layout: post
 title: "Instant Rose flovered Kaju Katli :  "
 tags: [Indian, Dessert]
 ---
-
-Thumbnail: 
-
-
-!
-
 ### Rose Flovored Kaju Katli :
 * ½ cup cashew powder
 * ⅓ cup Khoya or Milk powder

@@ -3,10 +3,6 @@ layout: post
 title: "Masala khichadi:"
 tags: [Indian, Main Course]
 ---
-
-Thumbnail: http://gallery.srujan.org/photos/i-R7zWnzH/0/S/i-R7zWnzH-Th.jpg
-
-
 ### Ingredients:
 * 1 cup Rice
 * ½ cup Split green grams (_Moong Dal_)

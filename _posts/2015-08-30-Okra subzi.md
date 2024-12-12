@@ -3,12 +3,7 @@ layout: post
 title: "Okra Subzi with Gram Flour"
 tags: [Indian, Main Course]
 ---
-
-Thumbnail: http://gallery.srujan.org/photos/i-ZVw7Dp7/0/L/i-ZVw7Dp7-Th.jpg
-
 _a.k.a. Besan Wali Bhindi_
-
-
 ### Ingredients:
 * 3 cups cut okra
 * 1 medium onion 

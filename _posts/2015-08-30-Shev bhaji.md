@@ -3,10 +3,6 @@ layout: post
 title: "Sev Bhaji "
 tags: [Indian, Main Course]
 ---
-
-Thumbnail: http://gallery.srujan.org/photos/i-PqPwDCT/0/S/i-PqPwDCT-Th.jpg
-
-
 ### Ingredients: 
 * 1-1½ cups spicy sev
 * ¾ cup onion sliced

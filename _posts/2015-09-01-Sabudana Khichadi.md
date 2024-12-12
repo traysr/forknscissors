@@ -3,9 +3,6 @@ layout: post
 title: "Sabudana Khichadi"
 tags: [Indian, Breakfast]
 ---
-
-
-
 ### Ingredients: 
 * 1 cup Sabudana (_Sago_)
 * ½ cup rosted peanuts powder

@@ -3,9 +3,6 @@ layout: post
 title: "Vietnamese Vegetarian Spring Rolls"
 tags: [Vietnamese, Appetizer]
 ---
-
-
-
 ### Ingredients
 
 **Spring Rolls:**
