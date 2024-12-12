@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rajma Masala: "
+title: "Rajma Masala"
 tags: [Indian, Main Course]
 ---
 

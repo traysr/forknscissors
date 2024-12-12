@@ -4,8 +4,6 @@ title: "Quinoa 'Fried Rice' :"
 tags: [Main course]
 ---
 
-
-
 ### Ingredients: 
 * 1 cup Quinoa uncooked
 * ⅓ cup frozen corn
