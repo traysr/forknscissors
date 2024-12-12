@@ -1,11 +1,9 @@
-Permalink: GujaratiDaal
-Tags: Indian, Main Course
-Thumbnail: http://gallery.srujan.org/photos/i-sJJrLVq/0/L/i-sJJrLVq-Th.jpg
-
-# Gujarati Daal 
-![Gujarati Daal](http://gallery.srujan.org/photos/i-sJJrLVq/0/L/i-sJJrLVq-L.jpg)
-
-
+---
+layout: post
+title: "Gujarati Daal"
+categories: Daals
+permalink: /recipes/gujarati-daal
+---
 ### Ingredients:
 * 1 cup Pigeon pea (_Toovar Daal_) 
 * 1 tomato cut into small clices

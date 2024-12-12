@@ -4,11 +4,6 @@ title:  "Rainbow Sandwiches"
 categories: Snacks
 permalink: /recipes/rainbowsandwiches
 ---
-
-# Rainbow Sandwiches
-
-![Rainbow Sandwiches]({{ site.baseurl }}/assets/images/rainbow-sandwiches-banner.jpg)
-
 ### Ingredients
 1. Yellow Layer
    * Boiled and mashed potatos: 2-3

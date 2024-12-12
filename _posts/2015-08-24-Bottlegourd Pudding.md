@@ -4,10 +4,6 @@ title:  "Bottle gourd Pudding"
 categories: Desserts
 permalink: /recipes/bottlegourdpudding
 ---
-# Bottle gourd Pudding
-![Bottle gourd Pudding]({{ site.baseurl }}/assets/images/bottlegourd-pudding-banner.jpg)
-
-
 _a.k.a. Lauki ka Halwa, Doodhi Halwa_
 ### Ingredients:
 * 3 cups grated bottle gourd (dudhi)
