@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: My Passion for Cakes
 permalink: /cakes/
 ---

@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Bottle gourd Pudding"
 categories: Desserts
 permalink: /recipes/bottlegourdpudding
+tagline: ""
+header:
+   overlay_image: /assets/images/rainbow-sandwiches-banner.jpg
 ---
 _a.k.a. Lauki ka Halwa, Doodhi Halwa_
 ### Ingredients:

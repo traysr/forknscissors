@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "Rainbow Sandwiches"
 categories: Snacks
 permalink: /recipes/rainbowsandwiches
+tagline: ""
+header:
+   overlay_image: /assets/images/rainbow-sandwiches-banner.jpg
 ---
 ### Ingredients
 1. Yellow Layer
