@@ -6,7 +6,7 @@ layout: page
 
 <div class="post-archive">
   {% for monthGroup in postsByMonth %}
-    <h4>{{ monthGroup.name }}</h4>
+    <h4>{{ monthGroup.name }} ({{ monthGroup.items.size }})</h4>
     <ul class="post-list">
       {% for post in monthGroup.items %}
         <li>
